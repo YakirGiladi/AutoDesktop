@@ -1,0 +1,23 @@
+0:press_keyboard("winleft")
+0:typetext("sign-in",0)
+0:press_keyboard("enter")
+0:search_object("C:/AutoDesktop/Test_imgs/setup.png",1,1)
+setup
+click("Single")
+0:if(setup_clicked)
+1:log("Test Passed","Info")
+0:else(setup_clicked)
+1:search_object("C:/AutoDesktop/Test_imgs/error_option.png",1,1)
+error_option
+find()
+1:if(error_option_exists)
+2:log("There is an error in the sing-in option","Error")
+2:search_object("C:/AutoDesktop/Test_imgs/setup_gray.png",1,1)
+setup_gray
+find()
+2:if(setup_gray_exists)
+3:log("The finger print is blank and cannot be choose","Error")
+2:else(setup_gray_exists)
+3:log("cannot find set-up in blank")
+1:else(error_option_exists)
+2:log("cannot find any errors")

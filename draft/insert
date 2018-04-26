@@ -1,0 +1,26 @@
+from tkinter import *
+
+root  =  Tk () 
+frame  =  Frame ( root ) 
+frame . pack ( side = TOP ) 
+
+list  =  Listbox ( frame ) 
+sbar  =  Scrollbar ( frame ) 
+sbar . config ( command = list . yview ) 
+list . config ( yscrollcommand= sbar . set ) 
+sbar . pack ( side = LEFT ,  fill = Y ) 
+list . pack ( side = LEFT ,  expand = YES ,  fill = BOTH ) 
+Button ( root ,  text = 'fetch'  ) . pack ( side = BOTTOM) 
+for  index  in  range ( 100 ): 
+	list . insert ( index ,  'line-'  +  str ( index )) 
+
+list  =  Listbox ( frame ) 
+sbar  =  Scrollbar ( frame ) 
+sbar . config ( command = list . yview ) 
+list . config ( yscrollcommand= sbar . set ) 
+sbar . pack ( side = RIGHT ,  fill = Y ) 
+list . pack ( side = RIGHT ,  expand = YES ,  fill = BOTH ) 
+
+
+
+root . mainloop ()

@@ -1,0 +1,3 @@
+0:log("err test","Error")
+0:log("Hola","Info")
+0:

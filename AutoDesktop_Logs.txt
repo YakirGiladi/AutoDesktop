@@ -1,0 +1,374 @@
+[2018-03-13 11:56:32,832][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-03-13 11:56:33,710][INFO ] - Language set to 'English'
+[2018-03-13 11:56:33,812][INFO ] - Pressed winleft
+[2018-03-13 11:56:33,913][INFO ] - typed 'sign-in' in speed 0
+[2018-03-13 11:56:34,014][INFO ] - Pressed enter
+[2018-03-13 11:56:35,288][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/setup.png. attempts=1
+[2018-03-13 11:56:37,437][INFO ] - Found C:/AutoDesktop/Test_imgs/error_option.png coordinates: 782.0, 248.0
+[2018-03-13 11:56:37,439][ERROR] - There is an error in the sing-in option
+[2018-03-13 11:56:38,596][INFO ] - Found C:/AutoDesktop/Test_imgs/setup_gray.png coordinates: 582.0, 722.5
+[2018-03-13 11:56:38,598][ERROR] - The finger print is blank and cannot be choose
+[2018-03-13 11:58:07,240][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-03-13 11:58:08,105][INFO ] - Language set to 'English'
+[2018-03-13 11:58:08,206][INFO ] - Pressed winleft
+[2018-03-13 11:58:08,309][INFO ] - typed 'sign-in' in speed 0
+[2018-03-13 11:58:08,410][INFO ] - Pressed enter
+[2018-03-13 11:58:09,669][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/setup.png. attempts=1
+[2018-03-13 11:58:11,904][INFO ] - Found C:/AutoDesktop/Test_imgs/error_option.png coordinates: 782.0, 248.0
+[2018-03-13 11:58:11,906][ERROR] - There is an error in the sing-in option
+[2018-03-13 11:58:13,102][INFO ] - Found C:/AutoDesktop/Test_imgs/setup_gray.png coordinates: 582.0, 722.5
+[2018-03-13 11:58:13,105][ERROR] - The finger print is blank and cannot be choose
+[2018-03-13 11:59:51,742][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-03-13 11:59:52,628][INFO ] - Language set to 'English'
+[2018-03-13 11:59:52,729][INFO ] - Pressed winleft
+[2018-03-13 11:59:52,831][INFO ] - typed 'sign-in' in speed 0
+[2018-03-13 11:59:52,931][INFO ] - Pressed enter
+[2018-03-13 11:59:54,213][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/setup.png. attempts=1
+[2018-03-13 11:59:56,598][INFO ] - Found C:/AutoDesktop/Test_imgs/error_option.png coordinates: 782.0, 248.0
+[2018-03-13 11:59:56,601][ERROR] - There is an error in the sing-in option
+[2018-03-13 11:59:57,834][INFO ] - Found C:/AutoDesktop/Test_imgs/setup_gray.png coordinates: 582.0, 722.5
+[2018-03-13 11:59:57,836][ERROR] - The finger print is blank and cannot be choose
+[2018-03-13 12:01:41,166][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-03-13 12:01:42,104][INFO ] - Language set to 'English'
+[2018-03-13 12:01:42,205][INFO ] - Pressed winleft
+[2018-03-13 12:01:42,308][INFO ] - typed 'sign-in' in speed 0
+[2018-03-13 12:01:42,409][INFO ] - Pressed enter
+[2018-03-13 12:01:43,349][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/setup.png. attempts=1
+[2018-03-13 12:01:45,169][INFO ] - Found C:/AutoDesktop/Test_imgs/error_option.png coordinates: 782.0, 248.0
+[2018-03-13 12:01:45,171][ERROR] - There is an error in the sing-in option
+[2018-03-13 12:01:45,977][INFO ] - Found C:/AutoDesktop/Test_imgs/setup_gray.png coordinates: 582.0, 722.5
+[2018-03-13 12:01:45,980][ERROR] - The finger print is blank and cannot be choose
+[2018-03-13 12:03:32,602][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-03-13 12:03:33,474][INFO ] - Language set to 'English'
+[2018-03-13 12:03:33,575][INFO ] - Pressed winleft
+[2018-03-13 12:03:33,678][INFO ] - typed 'sign-in' in speed 0
+[2018-03-13 12:03:33,779][INFO ] - Pressed enter
+[2018-03-13 12:03:35,035][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/setup.png. attempts=1
+[2018-03-13 12:03:37,183][INFO ] - Found C:/AutoDesktop/Test_imgs/error_option.png coordinates: 782.0, 248.0
+[2018-03-13 12:03:37,185][ERROR] - There is an error in the sing-in option
+[2018-03-13 12:03:38,393][INFO ] - Found C:/AutoDesktop/Test_imgs/setup_gray.png coordinates: 582.0, 722.5
+[2018-03-13 12:03:38,395][ERROR] - The finger print is blank and cannot be choose
+[2018-03-13 12:05:06,960][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-03-13 12:05:07,819][INFO ] - Language set to 'English'
+[2018-03-13 12:05:07,920][INFO ] - Pressed winleft
+[2018-03-13 12:05:08,023][INFO ] - typed 'sign-in' in speed 0
+[2018-03-13 12:05:08,123][INFO ] - Pressed enter
+[2018-03-13 12:05:09,391][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/setup.png. attempts=1
+[2018-03-13 12:05:11,545][INFO ] - Found C:/AutoDesktop/Test_imgs/error_option.png coordinates: 782.0, 248.0
+[2018-03-13 12:05:11,547][ERROR] - There is an error in the sing-in option
+[2018-03-13 12:05:12,680][INFO ] - Found C:/AutoDesktop/Test_imgs/setup_gray.png coordinates: 582.0, 722.5
+[2018-03-13 12:05:12,682][ERROR] - The finger print is blank and cannot be choose
+[2018-03-20 15:06:23,823][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-03-20 15:06:24,701][INFO ] - Language set to 'English'
+[2018-03-20 15:06:24,802][INFO ] - Pressed winleft
+[2018-03-20 15:06:24,904][INFO ] - typed 'pc' in speed 0
+[2018-03-20 15:06:25,006][INFO ] - Pressed enter
+[2018-03-20 15:06:26,007][INFO ] - Sleeing 1 sec
+[2018-03-20 15:06:28,692][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver.png coordinates: 519.0, 437.5
+[2018-03-20 15:06:29,496][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-03-20 15:06:31,272][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=2
+[2018-03-20 15:06:33,048][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=3
+[2018-03-20 15:06:36,587][INFO ] - Found C:/AutoDesktop/Test_imgs/new_folder.png coordinates: 551.0, 103.5
+[2018-03-20 15:06:37,791][INFO ] - typed 'test_folder' in speed 0.1
+[2018-03-20 15:06:37,891][INFO ] - Pressed enter
+[2018-03-20 15:06:37,992][INFO ] - Pressed up
+[2018-03-20 15:06:38,092][INFO ] - Pressed up
+[2018-03-20 15:06:38,192][INFO ] - Pressed up
+[2018-03-20 15:06:38,293][INFO ] - Pressed up
+[2018-03-20 15:06:38,393][INFO ] - Pressed up
+[2018-03-20 15:06:40,934][INFO ] - Found C:/AutoDesktop/Test_imgs/test_folder.png coordinates: 431.5, 986.0
+[2018-03-20 15:06:41,034][INFO ] - Pressed up
+[2018-03-20 15:06:41,135][INFO ] - Pressed up
+[2018-03-20 15:06:41,235][INFO ] - Pressed up
+[2018-03-20 15:06:41,335][INFO ] - Pressed enter
+[2018-03-20 15:06:41,436][INFO ] - Pressed enter
+[2018-03-20 15:06:42,266][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=1
+[2018-03-20 15:06:43,268][INFO ] - 'Delete 'test folder''
+[2018-03-20 15:06:43,269][INFO ] - test PASSED
+[2018-03-28 13:36:32,896][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-03-28 13:36:33,782][INFO ] - Language set to 'English'
+[2018-03-28 13:36:33,883][INFO ] - Pressed " \# tab  
+[2018-03-28 13:37:22,225][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-03-28 13:37:23,079][INFO ] - Language set to 'English'
+[2018-03-28 13:37:23,180][INFO ] - Pressed winleft r  
+[2018-03-28 13:56:41,224][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-03-28 13:56:42,084][INFO ] - Language set to 'English'
+[2018-03-28 13:56:42,085][INFO ] - Multi pressed on ['winleft', 'r', '']
+[2018-03-28 23:43:49,580][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-03-28 23:43:50,456][INFO ] - Language set to 'English'
+[2018-03-28 23:43:50,569][INFO ] - Pressed winleft
+[2018-03-28 23:43:50,681][INFO ] - typed 'pc' in speed 0
+[2018-03-28 23:43:50,782][INFO ] - Pressed enter
+[2018-03-28 23:43:51,783][INFO ] - Sleeing 1 sec
+[2018-03-28 23:43:54,419][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver.png coordinates: 519.0, 437.5
+[2018-03-28 23:43:55,241][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-03-28 23:43:57,097][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=2
+[2018-03-28 23:43:58,923][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=3
+[2018-03-28 23:44:02,431][INFO ] - Found C:/AutoDesktop/Test_imgs/new_folder.png coordinates: 551.0, 103.5
+[2018-03-28 23:44:03,634][INFO ] - typed 'test_folder' in speed 0.1
+[2018-03-28 23:44:03,734][INFO ] - Pressed enter
+[2018-03-28 23:44:03,834][INFO ] - Pressed up
+[2018-03-28 23:44:03,935][INFO ] - Pressed up
+[2018-03-28 23:44:04,035][INFO ] - Pressed up
+[2018-03-28 23:44:04,135][INFO ] - Pressed up
+[2018-03-28 23:44:04,235][INFO ] - Pressed up
+[2018-03-28 23:44:06,761][INFO ] - Found C:/AutoDesktop/Test_imgs/test_folder.png coordinates: 431.5, 986.0
+[2018-03-28 23:44:06,862][INFO ] - Pressed up
+[2018-03-28 23:44:06,962][INFO ] - Pressed up
+[2018-03-28 23:44:07,062][INFO ] - Pressed up
+[2018-03-28 23:44:07,163][INFO ] - Pressed enter
+[2018-03-28 23:44:07,263][INFO ] - Pressed enter
+[2018-03-28 23:44:08,010][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=1
+[2018-03-28 23:44:09,013][INFO ] - 'Delete 'test folder''
+[2018-03-28 23:44:09,013][INFO ] - test PASSED
+[2018-03-28 23:46:27,459][INFO ] - Pressed 123456
+[2018-03-28 23:46:51,028][INFO ] - Sleeing 3 sec
+[2018-03-28 23:46:51,128][INFO ] - Pressed 123456
+[2018-03-28 23:47:02,536][INFO ] - Sleeing 3 sec
+[2018-03-28 23:47:02,640][INFO ] - typed '123456' in speed 0
+[2018-03-28 23:47:20,869][INFO ] - Sleeing 3 sec
+[2018-03-28 23:47:20,978][INFO ] - typed 'Gilad ya gever' in speed 0
+[2018-03-28 23:47:33,825][INFO ] - Sleeing 3 sec
+[2018-03-28 23:47:47,933][INFO ] - typed 'Gilad ya gever' in speed 1
+[2018-03-28 23:48:02,168][INFO ] - Sleeing 3 sec
+[2018-03-28 23:48:05,075][INFO ] - typed 'Gilad ya gever' in speed 0.2
+[2018-04-04 10:49:25,596][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-04-04 10:49:26,660][INFO ] - Language set to 'English'
+[2018-04-04 10:49:26,661][INFO ] - Start Scenario
+[2018-04-04 10:49:26,762][INFO ] - Pressed winleft
+[2018-04-04 10:49:26,864][INFO ] - typed 'pc' in speed 0
+[2018-04-04 10:49:26,965][INFO ] - Pressed enter
+[2018-04-04 10:49:28,965][INFO ] - Sleeing 2 sec
+[2018-04-04 10:49:29,988][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=1
+[2018-04-04 10:49:31,927][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=2
+[2018-04-04 10:49:33,832][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=3
+[2018-04-04 10:49:34,833][INFO ] - Cannot clicked on C_driver
+[2018-04-04 10:50:00,711][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-04-04 10:50:01,624][INFO ] - Language set to 'English'
+[2018-04-04 10:50:01,625][INFO ] - Start Scenario
+[2018-04-04 10:50:01,726][INFO ] - Pressed winleft
+[2018-04-04 10:50:02,727][INFO ] - Sleeing 1 sec
+[2018-04-04 10:50:02,829][INFO ] - typed 'pc' in speed 0
+[2018-04-04 10:50:02,930][INFO ] - Pressed enter
+[2018-04-04 10:50:04,934][INFO ] - Sleeing 2 sec
+[2018-04-04 10:50:07,508][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver.png coordinates: 519.0, 437.5
+[2018-04-04 10:50:07,509][INFO ] - Find C_driver
+[2018-04-04 10:50:08,292][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-04-04 10:50:10,131][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=2
+[2018-04-04 10:50:13,652][INFO ] - Found C:/AutoDesktop/Test_imgs/new_folder.png coordinates: 551.0, 103.5
+[2018-04-04 10:50:14,857][INFO ] - typed 'test_folder' in speed 0.1
+[2018-04-04 10:50:14,958][INFO ] - Pressed enter
+[2018-04-04 10:50:15,059][INFO ] - Pressed up
+[2018-04-04 10:50:15,160][INFO ] - Pressed up
+[2018-04-04 10:50:15,260][INFO ] - Pressed up
+[2018-04-04 10:50:15,361][INFO ] - Pressed up
+[2018-04-04 10:50:15,462][INFO ] - Pressed up
+[2018-04-04 10:50:17,999][INFO ] - Found C:/AutoDesktop/Test_imgs/test_folder.png coordinates: 431.5, 986.0
+[2018-04-04 10:50:18,100][INFO ] - Pressed up
+[2018-04-04 10:50:18,201][INFO ] - Pressed up
+[2018-04-04 10:50:18,301][INFO ] - Pressed up
+[2018-04-04 10:50:18,402][INFO ] - Pressed enter
+[2018-04-04 10:50:18,503][INFO ] - Pressed enter
+[2018-04-04 10:50:19,288][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=1
+[2018-04-04 10:50:20,290][INFO ] - Delete 'test folder'
+[2018-04-04 10:50:20,291][INFO ] - test PASSED
+[2018-04-04 10:53:18,913][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-04-04 10:53:19,840][INFO ] - Language set to 'English'
+[2018-04-04 10:53:19,841][INFO ] - Start Scenario
+[2018-04-04 10:53:19,942][INFO ] - Pressed winleft
+[2018-04-04 10:53:20,942][INFO ] - Sleeing 1 sec
+[2018-04-04 10:53:21,043][INFO ] - typed 'pc' in speed 0
+[2018-04-04 10:53:21,144][INFO ] - Pressed enter
+[2018-04-04 10:53:23,144][INFO ] - Sleeing 2 sec
+[2018-04-04 10:53:25,714][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver.png coordinates: 519.0, 437.5
+[2018-04-04 10:53:25,714][INFO ] - Find C_driver
+[2018-04-04 10:53:26,604][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-04-04 10:53:28,377][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=2
+[2018-04-04 10:53:31,927][INFO ] - Found C:/AutoDesktop/Test_imgs/new_folder.png coordinates: 551.0, 103.5
+[2018-04-04 10:53:33,131][INFO ] - typed 'test_folder' in speed 0.1
+[2018-04-04 10:53:33,232][INFO ] - Pressed enter
+[2018-04-04 10:53:33,333][INFO ] - Pressed up
+[2018-04-04 10:53:33,433][INFO ] - Pressed up
+[2018-04-04 10:53:33,534][INFO ] - Pressed up
+[2018-04-04 10:53:33,634][INFO ] - Pressed up
+[2018-04-04 10:53:33,735][INFO ] - Pressed up
+[2018-04-04 10:53:36,290][INFO ] - Found C:/AutoDesktop/Test_imgs/test_folder.png coordinates: 431.5, 986.0
+[2018-04-04 10:53:36,390][INFO ] - Pressed up
+[2018-04-04 10:53:36,491][INFO ] - Pressed up
+[2018-04-04 10:53:36,592][INFO ] - Pressed up
+[2018-04-04 10:53:36,692][INFO ] - Pressed enter
+[2018-04-04 10:53:36,794][INFO ] - Pressed enter
+[2018-04-04 10:53:37,623][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=1
+[2018-04-04 10:53:38,625][INFO ] - Delete 'test folder'
+[2018-04-04 10:53:38,625][INFO ] - test PASSED
+[2018-04-04 10:57:16,363][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-04-04 10:57:17,488][INFO ] - Language set to 'English'
+[2018-04-04 10:57:17,489][INFO ] - Start Scenario
+[2018-04-04 10:57:17,590][INFO ] - Pressed winleft
+[2018-04-04 10:57:18,590][INFO ] - Sleeing 1 sec
+[2018-04-04 10:57:18,693][INFO ] - typed 'pc' in speed 0
+[2018-04-04 10:57:18,793][INFO ] - Pressed enter
+[2018-04-04 10:57:20,794][INFO ] - Sleeing 2 sec
+[2018-04-04 10:57:21,801][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=1
+[2018-04-04 10:57:23,713][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=2
+[2018-04-04 10:57:25,634][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=3
+[2018-04-04 10:57:26,635][INFO ] - Cannot clicked on C_driver
+[2018-04-04 11:08:50,934][INFO ] - Language set to 'English'
+[2018-04-04 13:24:16,128][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-04-04 13:24:16,992][INFO ] - Language set to 'English'
+[2018-04-04 13:24:16,993][INFO ] - Start Scenario
+[2018-04-04 13:24:17,095][INFO ] - Pressed winleft
+[2018-04-04 13:24:18,096][INFO ] - Sleeing 1 sec
+[2018-04-04 13:24:18,197][INFO ] - typed 'pc' in speed 0
+[2018-04-04 13:24:18,298][INFO ] - Pressed enter
+[2018-04-04 13:24:20,299][INFO ] - Sleeing 2 sec
+[2018-04-04 13:24:22,973][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver.png coordinates: 519.0, 437.5
+[2018-04-04 13:24:22,973][INFO ] - Find C_driver
+[2018-04-04 13:24:23,776][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-04-04 13:24:25,569][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=2
+[2018-04-04 13:24:29,119][INFO ] - Found C:/AutoDesktop/Test_imgs/new_folder.png coordinates: 551.0, 103.5
+[2018-04-04 13:24:30,323][INFO ] - typed 'test_folder' in speed 0.1
+[2018-04-04 13:24:30,423][INFO ] - Pressed enter
+[2018-04-04 13:24:30,524][INFO ] - Pressed up
+[2018-04-04 13:24:30,624][INFO ] - Pressed up
+[2018-04-04 13:24:30,725][INFO ] - Pressed up
+[2018-04-04 13:24:30,825][INFO ] - Pressed up
+[2018-04-04 13:24:30,925][INFO ] - Pressed up
+[2018-04-04 13:24:33,548][INFO ] - Found C:/AutoDesktop/Test_imgs/test_folder.png coordinates: 431.5, 986.0
+[2018-04-04 13:24:33,649][INFO ] - Pressed up
+[2018-04-04 13:24:33,750][INFO ] - Pressed up
+[2018-04-04 13:24:33,850][INFO ] - Pressed up
+[2018-04-04 13:24:33,950][INFO ] - Pressed enter
+[2018-04-04 13:24:34,051][INFO ] - Pressed enter
+[2018-04-04 13:24:34,848][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=1
+[2018-04-04 13:24:35,850][INFO ] - Delete 'test folder'
+[2018-04-04 13:24:35,850][INFO ] - test PASSED
+[2018-04-04 13:26:03,617][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-04-04 13:26:04,520][INFO ] - Language set to 'English'
+[2018-04-04 13:26:04,622][INFO ] - Pressed winleft
+[2018-04-04 13:26:04,723][INFO ] - typed 'pc' in speed 0
+[2018-04-04 13:26:04,823][INFO ] - Pressed enter
+[2018-04-04 13:26:05,824][INFO ] - Sleeing 1 sec
+[2018-04-04 13:26:08,472][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver.png coordinates: 519.0, 437.5
+[2018-04-04 13:26:09,284][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-04-04 13:26:11,059][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=2
+[2018-04-04 13:26:12,853][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=3
+[2018-04-04 13:26:16,416][INFO ] - Found C:/AutoDesktop/Test_imgs/new_folder.png coordinates: 551.0, 103.5
+[2018-04-04 13:26:17,620][INFO ] - typed 'test_folder' in speed 0.1
+[2018-04-04 13:26:17,720][INFO ] - Pressed enter
+[2018-04-04 13:26:17,821][INFO ] - Pressed up
+[2018-04-04 13:26:17,921][INFO ] - Pressed up
+[2018-04-04 13:26:18,022][INFO ] - Pressed up
+[2018-04-04 13:26:18,122][INFO ] - Pressed up
+[2018-04-04 13:26:18,222][INFO ] - Pressed up
+[2018-04-04 13:26:20,797][INFO ] - Found C:/AutoDesktop/Test_imgs/test_folder.png coordinates: 431.5, 986.0
+[2018-04-04 13:26:20,897][INFO ] - Pressed up
+[2018-04-04 13:26:20,997][INFO ] - Pressed up
+[2018-04-04 13:26:21,097][INFO ] - Pressed up
+[2018-04-04 13:26:21,198][INFO ] - Pressed enter
+[2018-04-04 13:26:21,298][INFO ] - Pressed enter
+[2018-04-04 13:26:22,149][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=1
+[2018-04-04 13:26:23,153][INFO ] - 'Delete 'test folder''
+[2018-04-04 13:26:23,153][INFO ] - test PASSED
+[2018-04-04 13:28:02,638][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-04-04 13:28:03,506][INFO ] - Language set to 'English'
+[2018-04-04 13:28:03,607][INFO ] - Pressed winleft
+[2018-04-04 13:28:03,709][INFO ] - typed 'pc' in speed 0
+[2018-04-04 13:28:03,810][INFO ] - Pressed enter
+[2018-04-04 13:28:04,810][INFO ] - Sleeing 1 sec
+[2018-04-04 13:28:07,429][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver.png coordinates: 519.0, 437.5
+[2018-04-04 13:28:08,237][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-04-04 13:28:10,063][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=2
+[2018-04-04 13:28:11,900][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=3
+[2018-04-04 13:28:15,474][INFO ] - Found C:/AutoDesktop/Test_imgs/new_folder.png coordinates: 551.0, 103.5
+[2018-04-04 13:28:16,679][INFO ] - typed 'test_folder' in speed 0.1
+[2018-04-04 13:28:16,779][INFO ] - Pressed enter
+[2018-04-04 13:28:16,880][INFO ] - Pressed up
+[2018-04-04 13:28:16,980][INFO ] - Pressed up
+[2018-04-04 13:28:17,081][INFO ] - Pressed up
+[2018-04-04 13:28:17,181][INFO ] - Pressed up
+[2018-04-04 13:28:17,282][INFO ] - Pressed up
+[2018-04-04 13:28:19,921][INFO ] - Found C:/AutoDesktop/Test_imgs/test_folder.png coordinates: 431.5, 986.0
+[2018-04-04 13:28:20,022][INFO ] - Pressed up
+[2018-04-04 13:28:20,122][INFO ] - Pressed up
+[2018-04-04 13:28:20,223][INFO ] - Pressed up
+[2018-04-04 13:28:20,324][INFO ] - Pressed enter
+[2018-04-04 13:28:20,425][INFO ] - Pressed enter
+[2018-04-04 13:28:21,243][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=1
+[2018-04-04 13:28:22,245][INFO ] - 'Delete 'test folder''
+[2018-04-04 13:28:22,245][INFO ] - test PASSED
+[2018-04-04 13:29:31,466][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-04-04 13:29:32,339][INFO ] - Language set to 'English'
+[2018-04-04 13:29:32,460][INFO ] - Pressed winleft
+[2018-04-04 13:29:32,586][INFO ] - typed 'pc' in speed 0
+[2018-04-04 13:29:32,686][INFO ] - Pressed enter
+[2018-04-04 13:29:33,687][INFO ] - Sleeing 1 sec
+[2018-04-04 13:29:36,306][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver.png coordinates: 519.0, 437.5
+[2018-04-04 13:29:37,120][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-04-04 13:29:38,941][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=2
+[2018-04-04 13:29:40,730][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=3
+[2018-04-04 13:29:44,317][INFO ] - Found C:/AutoDesktop/Test_imgs/new_folder.png coordinates: 551.0, 103.5
+[2018-04-04 13:29:45,520][INFO ] - typed 'test_folder' in speed 0.1
+[2018-04-04 13:29:45,621][INFO ] - Pressed enter
+[2018-04-04 13:29:45,722][INFO ] - Pressed up
+[2018-04-04 13:29:45,822][INFO ] - Pressed up
+[2018-04-04 13:29:45,923][INFO ] - Pressed up
+[2018-04-04 13:29:46,023][INFO ] - Pressed up
+[2018-04-04 13:29:46,124][INFO ] - Pressed up
+[2018-04-04 13:29:48,697][INFO ] - Found C:/AutoDesktop/Test_imgs/test_folder.png coordinates: 431.5, 986.0
+[2018-04-04 13:29:48,798][INFO ] - Pressed up
+[2018-04-04 13:29:48,898][INFO ] - Pressed up
+[2018-04-04 13:29:48,998][INFO ] - Pressed up
+[2018-04-04 13:29:49,099][INFO ] - Pressed enter
+[2018-04-04 13:29:49,200][INFO ] - Pressed enter
+[2018-04-04 13:29:50,026][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=1
+[2018-04-04 13:29:51,028][INFO ] - 'Delete 'test folder''
+[2018-04-04 13:29:51,028][INFO ] - test PASSED
+[2018-04-04 13:33:20,671][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-04-04 13:33:21,539][INFO ] - Language set to 'English'
+[2018-04-04 13:33:22,540][INFO ] - Sleeing 1 sec
+[2018-04-04 13:33:22,540][INFO ] - 123
+[2018-04-04 13:33:58,923][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-04-04 13:33:59,786][INFO ] - Language set to 'English'
+[2018-04-04 13:34:00,786][INFO ] - Sleeing 1 sec
+[2018-04-04 13:34:00,786][ERROR] - 44444
+[2018-04-04 13:34:55,409][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-04-04 13:34:56,270][INFO ] - Language set to 'English'
+[2018-04-04 13:34:57,272][INFO ] - Sleeing 1 sec
+[2018-04-04 13:35:29,881][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-04-04 13:35:30,716][INFO ] - Language set to 'English'
+[2018-04-04 13:35:31,717][INFO ] - Sleeing 1 sec
+[2018-04-04 13:35:32,717][INFO ] - Sleeing 1 sec
+[2018-04-04 13:35:33,717][INFO ] - Sleeing 1 sec
+[2018-04-04 13:35:34,717][INFO ] - Sleeing 1 sec
+[2018-04-04 13:35:35,718][INFO ] - Sleeing 1 sec
+[2018-04-04 13:36:07,385][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-04-04 13:36:08,282][INFO ] - Language set to 'English'
+[2018-04-04 13:36:09,284][INFO ] - Sleeing 1 sec
+[2018-04-08 17:18:58,108][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-04-08 17:18:58,972][INFO ] - Language set to 'English'
+[2018-04-08 17:18:59,073][INFO ] - Pressed winleft
+[2018-04-08 17:18:59,174][INFO ] - typed 'pc' in speed 0
+[2018-04-08 17:18:59,274][INFO ] - Pressed enter
+[2018-04-08 17:19:00,275][INFO ] - Sleeing 1 sec
+[2018-04-08 17:19:02,924][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver.png coordinates: 519.0, 437.5
+[2018-04-08 17:19:03,728][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-04-08 17:19:05,517][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=2
+[2018-04-08 17:19:07,284][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=3
+[2018-04-08 17:19:10,843][INFO ] - Found C:/AutoDesktop/Test_imgs/new_folder.png coordinates: 551.0, 103.5
+[2018-04-08 17:19:12,047][INFO ] - typed 'test_folder' in speed 0.1
+[2018-04-08 17:19:12,147][INFO ] - Pressed enter
+[2018-04-08 17:19:12,247][INFO ] - Pressed up
+[2018-04-08 17:19:12,349][INFO ] - Pressed up
+[2018-04-08 17:19:12,449][INFO ] - Pressed up
+[2018-04-08 17:19:12,550][INFO ] - Pressed up
+[2018-04-08 17:19:12,650][INFO ] - Pressed up
+[2018-04-08 17:19:15,207][INFO ] - Found C:/AutoDesktop/Test_imgs/test_folder.png coordinates: 431.5, 986.0
+[2018-04-08 17:19:15,307][INFO ] - Pressed up
+[2018-04-08 17:19:15,408][INFO ] - Pressed up
+[2018-04-08 17:19:15,508][INFO ] - Pressed up
+[2018-04-08 17:19:15,609][INFO ] - Pressed enter
+[2018-04-08 17:19:15,709][INFO ] - Pressed enter
+[2018-04-08 17:19:16,551][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=1
+[2018-04-08 17:19:17,554][INFO ] - 'Delete 'test folder''
+[2018-04-08 17:19:17,554][INFO ] - test PASSED

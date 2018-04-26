@@ -1,0 +1,13 @@
+Test_imgs/test.txt
+Test_imgs/test.txt
+Test_imgs/lolallalala.txt
+Test_imgs/testing more.txt
+Test_imgs/testing more.txt
+error test.txt
+lala.txt
+.txt
+.txt
+C:/AutoDesktop/Test_imgs/testing stuff.txt
+C:/AutoDesktop/Test_imgs/testing rrrr.txt
+.txt
+C:/AutoDesktop/Test_imgs/123 22.txt
