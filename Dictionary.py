@@ -136,17 +136,3 @@ def run_scenario(code_filename = "code_file"):
             code_filename += ".py"
         AutoDesktop.Keyboard.keyboard_multiPress("winleft d")
         os.system("python {}".format(code_filename))
-
-# run_scenario("6")
-
-# convert_code()
-# run_scenario()
-# keyboard_multiPress
-# keyboard_type
-# keyboard_press
-# mouse_coordinates
-# mouse_click
-# mouse_click_coordinates
-# move_mouse
-# set_keyboard
-# UIElem

@@ -463,7 +463,7 @@ class Application(Frame):
             name = ""
             names_dir = path.split("/")
             for name_dir in names_dir:
-                if ".png" in name_dir:
+                if ".png" in name_dir or ".PNG" in name_dir:
                     name = name_dir[:name_dir.index(".")]
 
             return name
@@ -808,7 +808,8 @@ class Application(Frame):
                 print("jump_end")
                 jump_end(start = False)
 
-            self.lb_condition_var.set(condition_inline)
+            if valid_input_digit(condition_inline):
+                self.lb_condition_var.set(condition_inline)
 
         def remove_action():
 
@@ -1275,7 +1276,7 @@ class Application(Frame):
         btn_open_scenario = ttk.Button(autodesktop_frame, width=15, text='Open Scenario', command=openfile)
         btn_open_scenario.grid(row=0, column=2, padx=10, pady=2)
 
-        btn_show_all_scenarios = ttk.Button(autodesktop_frame, width=16, text='Show All Scenarios', command=show_all_scenarios)
+        btn_show_all_scenarios = ttk.Button(autodesktop_frame, width=17, text='Show All Scenarios', command=show_all_scenarios)
         btn_show_all_scenarios.grid(row=0, column=3, padx=0, pady=2)
 
         btn_write_end = ttk.Button(autodesktop_frame, width=15, text='Add 2 The End', command=jump_end)
@@ -1494,7 +1495,7 @@ class Application(Frame):
         btn_clear_actions_list.grid(row=4, column=2, columnspan=2)
 
         # Increase Condition Actions
-        Label(scenarios_list, text="Condition Genrator :").grid(row=5, column=1 , padx=10)
+        Label(scenarios_list, text="Condition Generator :").grid(row=5, column=1 , padx=10)
         condition_pluse = ttk.Button(scenarios_list, width = 3, text='+', command=cond_plus)
         condition_pluse.grid(row=5, column=2)
         condition_minus = ttk.Button(scenarios_list, width = 3, text='-', command=cond_minus)

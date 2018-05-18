@@ -1,0 +1,35 @@
+[2018-05-18 15:04:20,963][INFO ] - Start Scenario
+INFO:AutoDesktop:Start Scenario
+[2018-05-18 15:04:22,117][INFO ] - Mouse moved to 100,100 in speed 1
+INFO:AutoDesktop:Mouse moved to 100,100 in speed 1
+[2018-05-18 15:04:23,588][INFO ] - C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-05-18 15:04:25,054][INFO ] - C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+INFO:AutoDesktop:C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-05-18 15:04:26,542][INFO ] - C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+INFO:AutoDesktop:C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+[2018-05-18 15:07:16,650][INFO ] - Start Scenario
+[2018-05-18 15:07:16,650][INFO ] - Start Scenario
+INFO:AutoDesktop:Start Scenario
+[2018-05-18 15:07:17,804][INFO ] - Mouse moved to 100,100 in speed 1
+[2018-05-18 15:07:17,804][INFO ] - Mouse moved to 100,100 in speed 1
+INFO:AutoDesktop:Mouse moved to 100,100 in speed 1
+[2018-05-18 15:07:19,276][INFO ] - C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-05-18 15:07:19,276][INFO ] - C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-05-18 15:07:20,766][INFO ] - C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-05-18 15:07:20,766][INFO ] - C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+INFO:AutoDesktop:C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-05-18 15:07:21,570][INFO ] - C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+[2018-05-18 15:07:21,570][INFO ] - C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+INFO:AutoDesktop:C:/AutoDesktop/windows.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+[2018-05-18 15:10:32,411][INFO ] - Start Scenario
+INFO:AutoDesktop:Start Scenario
+[2018-05-18 15:10:33,565][INFO ] - Mouse moved to 100,100 in speed 1
+INFO:AutoDesktop:Mouse moved to 100,100 in speed 1
+[2018-05-18 15:10:36,780][INFO ] - Found C:/AutoDesktop/windows.PNG coordinates: 23.5, 1059.0
+INFO:AutoDesktop:Found C:/AutoDesktop/windows.PNG coordinates: 23.5, 1059.0
+[2018-05-18 15:10:37,933][INFO ] - Mouse moved to 100,100 in speed 1
+INFO:AutoDesktop:Mouse moved to 100,100 in speed 1
+[2018-05-18 15:10:37,933][INFO ] - Passed Test
+INFO:AutoDesktop:Passed Test

@@ -52,6 +52,8 @@ class OS():
     def log_filename(logname):
         global logging
 
+        logname = logname.split(".")[0] + ".log"
+
         logging.basicConfig(filename=logname)
         # create formatters
         file_formatter = logging.Formatter('[%(asctime)-15s][%(levelname)-5s] - %(message)s')
