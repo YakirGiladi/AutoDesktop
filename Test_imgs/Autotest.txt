@@ -5,7 +5,7 @@
 0:press_keyboard("enter")
 1:
 0:sleep(2)
-0:search_object("C:/AutoDesktop/Test_imgs/C_driver.png",3,1)
+0:search_object("C:/AutoDesktop/Test_imgs/C_driver_new.png",3,1)
 C_driver
 click("Double")
 0:if_not(C_driver_clicked)
@@ -21,7 +21,7 @@ click('Single')
 1:if_not(new_folder_clicked)
 2:log("Cannot clicked on new_folder")
 1:else(new_folder_clicked)
-2:typetext("test_folder",0.1)
+2:typetext("test_folder",0.7)
 2:press_keyboard("enter")
 2:press_keyboard("up")
 2:press_keyboard("up")

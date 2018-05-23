@@ -4,10 +4,12 @@ import re
 import os
 
 help_content = "This is the help_content\nThis is the help_content\nThis is the help_content"
-title = "AutoDekstop Help"
+title = "About AutoDekstop"
 master_h = None
 
 class Help():
+
+    global title, help_content
 
     def quit(self):
         global master_h
@@ -24,7 +26,7 @@ class Help():
         adt_help_frame.pack_propagate(0) 
 
         help_label = Label(adt_help_frame, text=help_content, font="Arial 10")
-        help_label.grid(row=0, column=0, padx=2, pady=15)
+        help_label.grid(row=0, column=0, padx=2, pady=15, sticky=E)
 
         master_h.protocol('WM_DELETE_WINDOW', self.quit)
 
@@ -32,14 +34,26 @@ class Help():
 
 
 
-def run_help():
+def run_help(kind):
 
-    global master_h
-
+    global master_h, title, help_content
+    
     master_h = Tk()
+
+    if kind == "About":
+        title = "About AutoDekstop"
+
+        with open ("About.txt", 'r') as abf:
+            help_content = abf.read()
+
+        master_h.geometry("500x650")
+
+    elif kind == "Help":
+        title = "AutoDekstop Help"
+
+    
     master_h.title(title)
-    master_h.geometry("400x300")
-    master_h.iconbitmap(default='icon.ico')
+    
+    master_h.iconbitmap(default='AutoDekstop_logo.ico')
     app_help = Help(master_h)
     master_h.mainloop()
-

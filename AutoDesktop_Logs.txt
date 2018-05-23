@@ -400,3 +400,150 @@
 [2018-05-18 15:10:36,780][INFO ] - Found C:/AutoDesktop/windows.PNG coordinates: 23.5, 1059.0
 [2018-05-18 15:10:37,933][INFO ] - Mouse moved to 100,100 in speed 1
 [2018-05-18 15:10:37,933][INFO ] - Passed Test
+[2018-05-19 16:06:25,828][INFO ] - Mouse moved to 100,100 in speed 1
+[2018-05-19 16:06:30,196][INFO ] - Mouse moved to 100,100 in speed 0.5
+[2018-05-19 16:06:33,285][INFO ] - Mouse moved to 100,100 in speed 0.2
+[2018-05-19 16:13:17,587][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-05-19 16:13:18,501][INFO ] - Language set to 'English'
+[2018-05-19 16:13:18,502][INFO ] - Start Scenario
+[2018-05-19 16:13:18,602][INFO ] - Pressed winleft
+[2018-05-19 16:13:19,603][INFO ] - Sleeing 1 sec
+[2018-05-19 16:13:19,705][INFO ] - typed 'pc' in speed 0
+[2018-05-19 16:13:19,806][INFO ] - Pressed enter
+[2018-05-19 16:13:21,807][INFO ] - Sleeing 2 sec
+[2018-05-19 16:13:23,391][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=1
+[2018-05-19 16:13:25,927][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=2
+[2018-05-19 16:13:28,470][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=3
+[2018-05-19 16:13:29,471][INFO ] - Cannot clicked on C_driver
+[2018-05-19 16:13:36,962][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-05-19 16:13:37,847][INFO ] - Language set to 'English'
+[2018-05-19 16:13:37,848][INFO ] - Start Scenario
+[2018-05-19 16:13:37,948][INFO ] - Pressed winleft
+[2018-05-19 16:13:38,950][INFO ] - Sleeing 1 sec
+[2018-05-19 16:13:39,051][INFO ] - typed 'pc' in speed 0
+[2018-05-19 16:13:39,151][INFO ] - Pressed enter
+[2018-05-19 16:13:41,152][INFO ] - Sleeing 2 sec
+[2018-05-19 16:13:42,464][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=1
+[2018-05-19 16:13:44,758][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=2
+[2018-05-19 16:13:47,048][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=3
+[2018-05-19 16:13:48,048][INFO ] - Cannot clicked on C_driver
+[2018-05-19 16:14:46,950][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-05-19 16:14:47,807][INFO ] - Language set to 'English'
+[2018-05-19 16:14:47,808][INFO ] - Start Scenario
+[2018-05-19 16:14:47,910][INFO ] - Pressed winleft
+[2018-05-19 16:14:48,911][INFO ] - Sleeing 1 sec
+[2018-05-19 16:14:49,011][INFO ] - typed 'pc' in speed 0
+[2018-05-19 16:14:49,111][INFO ] - Pressed enter
+[2018-05-19 16:14:51,112][INFO ] - Sleeing 2 sec
+[2018-05-19 16:14:52,096][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=1
+[2018-05-19 16:14:54,045][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=2
+[2018-05-19 16:14:55,995][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=3
+[2018-05-19 16:14:56,995][INFO ] - Cannot clicked on C_driver
+[2018-05-19 16:15:37,060][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-05-19 16:15:37,938][INFO ] - Language set to 'English'
+[2018-05-19 16:15:37,940][INFO ] - Start Scenario
+[2018-05-19 16:15:38,041][INFO ] - Pressed winleft
+[2018-05-19 16:15:39,045][INFO ] - Sleeing 1 sec
+[2018-05-19 16:15:39,145][INFO ] - typed 'pc' in speed 0
+[2018-05-19 16:15:39,245][INFO ] - Pressed enter
+[2018-05-19 16:15:41,245][INFO ] - Sleeing 2 sec
+[2018-05-19 16:15:43,750][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver.png coordinates: 146.0, 230.5
+[2018-05-19 16:15:43,750][INFO ] - Find C_driver
+[2018-05-19 16:15:59,448][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-05-19 16:16:02,069][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-05-19 16:16:02,944][INFO ] - Language set to 'English'
+[2018-05-19 16:16:02,946][INFO ] - Start Scenario
+[2018-05-19 16:16:03,047][INFO ] - Pressed winleft
+[2018-05-19 16:16:03,071][INFO ] - Found C:/AutoDesktop/Test_imgs/full_size.png coordinates: 1355.5, 59.5
+[2018-05-19 16:16:04,049][INFO ] - Sleeing 1 sec
+[2018-05-19 16:16:04,134][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/new_folder.png. attempts=1
+[2018-05-19 16:16:04,151][INFO ] - typed 'pc' in speed 0
+[2018-05-19 16:16:04,252][INFO ] - Pressed enter
+[2018-05-19 16:16:05,865][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/new_folder.png. attempts=2
+[2018-05-19 16:16:06,253][INFO ] - Sleeing 2 sec
+[2018-05-19 16:16:07,580][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/new_folder.png. attempts=3
+[2018-05-19 16:16:08,581][INFO ] - Cannot clicked on new_folder
+[2018-05-19 16:16:08,751][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver.png coordinates: 146.0, 230.5
+[2018-05-19 16:16:08,751][INFO ] - Find C_driver
+[2018-05-19 16:16:09,457][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-05-19 16:16:11,170][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=2
+[2018-05-19 16:16:14,712][INFO ] - Found C:/AutoDesktop/Test_imgs/new_folder.png coordinates: 551.0, 103.5
+[2018-05-19 16:16:22,518][INFO ] - typed 'test_folder' in speed 0.7
+[2018-05-19 16:16:22,619][INFO ] - Pressed enter
+[2018-05-19 16:16:22,719][INFO ] - Pressed up
+[2018-05-19 16:16:22,820][INFO ] - Pressed up
+[2018-05-19 16:16:22,921][INFO ] - Pressed up
+[2018-05-19 16:16:23,021][INFO ] - Pressed up
+[2018-05-19 16:16:23,122][INFO ] - Pressed up
+[2018-05-19 16:16:23,888][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=1
+[2018-05-19 16:16:25,652][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=2
+[2018-05-19 16:16:27,445][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=3
+[2018-05-19 16:16:28,446][INFO ] - Cannot found test_folder
+[2018-05-19 16:16:28,546][INFO ] - Pressed down
+[2018-05-19 16:16:28,647][INFO ] - Pressed down
+[2018-05-19 16:16:28,747][INFO ] - Pressed down
+[2018-05-19 16:16:28,848][INFO ] - Pressed down
+[2018-05-19 16:16:28,949][INFO ] - Pressed down
+[2018-05-19 16:16:29,065][INFO ] - Pressed delete
+[2018-05-19 16:16:30,608][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=1
+[2018-05-19 16:16:31,611][INFO ] - Delete 'test folder'
+[2018-05-19 16:16:31,612][INFO ] - test PASSED
+[2018-05-19 16:16:57,024][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-05-19 16:16:57,925][INFO ] - Language set to 'English'
+[2018-05-19 16:16:57,926][INFO ] - Start Scenario
+[2018-05-19 16:16:58,026][INFO ] - Pressed winleft
+[2018-05-19 16:16:59,027][INFO ] - Sleeing 1 sec
+[2018-05-19 16:16:59,127][INFO ] - typed 'pc' in speed 0
+[2018-05-19 16:16:59,228][INFO ] - Pressed enter
+[2018-05-19 16:17:01,228][INFO ] - Sleeing 2 sec
+[2018-05-19 16:17:03,714][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver.png coordinates: 146.0, 230.5
+[2018-05-19 16:17:03,714][INFO ] - Find C_driver
+[2018-05-19 16:17:04,422][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-05-19 16:17:06,132][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=2
+[2018-05-19 16:17:09,595][INFO ] - Found C:/AutoDesktop/Test_imgs/new_folder.png coordinates: 551.0, 103.5
+[2018-05-19 16:17:17,401][INFO ] - typed 'test_folder' in speed 0.7
+[2018-05-19 16:17:17,502][INFO ] - Pressed enter
+[2018-05-19 16:17:17,602][INFO ] - Pressed up
+[2018-05-19 16:17:17,703][INFO ] - Pressed up
+[2018-05-19 16:17:17,803][INFO ] - Pressed up
+[2018-05-19 16:17:17,903][INFO ] - Pressed up
+[2018-05-19 16:17:18,004][INFO ] - Pressed up
+[2018-05-19 16:17:18,782][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=1
+[2018-05-19 16:17:20,526][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=2
+[2018-05-19 16:17:22,257][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=3
+[2018-05-19 16:17:23,259][INFO ] - Cannot found test_folder
+[2018-05-19 16:17:23,359][INFO ] - Pressed down
+[2018-05-19 16:17:23,460][INFO ] - Pressed down
+[2018-05-19 16:17:23,560][INFO ] - Pressed down
+[2018-05-19 16:17:23,661][INFO ] - Pressed down
+[2018-05-19 16:17:23,762][INFO ] - Pressed down
+[2018-05-19 16:17:23,862][INFO ] - Pressed delete
+[2018-05-19 16:17:24,577][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=1
+[2018-05-19 16:17:25,579][INFO ] - Delete 'test folder'
+[2018-05-19 16:17:25,580][INFO ] - test PASSED
+[2018-05-19 16:22:07,606][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-05-19 16:22:08,518][INFO ] - Language set to 'English'
+[2018-05-19 16:22:08,620][INFO ] - Pressed winleft
+[2018-05-19 16:22:08,728][INFO ] - typed 'pc' in speed 0
+[2018-05-19 16:22:08,831][INFO ] - Pressed enter
+[2018-05-19 16:22:09,831][INFO ] - Sleeing 1 sec
+[2018-05-19 16:22:10,680][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=1
+[2018-05-19 16:22:12,466][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=2
+[2018-05-19 16:22:14,271][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=3
+[2018-05-19 16:22:15,273][INFO ] - Cannot clicked on C_driver
+[2018-05-19 16:23:41,874][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-05-19 16:23:42,764][INFO ] - Language set to 'English'
+[2018-05-19 16:23:42,765][INFO ] - Start Scenario
+[2018-05-19 16:23:42,867][INFO ] - Pressed winleft
+[2018-05-19 16:23:43,868][INFO ] - Sleeing 1 sec
+[2018-05-19 16:23:43,970][INFO ] - typed 'pc' in speed 0
+[2018-05-19 16:23:44,070][INFO ] - Pressed enter
+[2018-05-19 16:23:46,070][INFO ] - Sleeing 2 sec
+[2018-05-19 16:23:48,657][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver_new.png coordinates: 118.5, 250.0
+[2018-05-19 16:23:48,657][INFO ] - Find C_driver
+[2018-05-19 16:23:49,506][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-05-19 16:23:51,343][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=2
+[2018-05-19 16:23:53,180][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/new_folder.png. attempts=1
+[2018-05-19 16:23:55,037][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/new_folder.png. attempts=2
+[2018-05-19 16:23:56,862][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/new_folder.png. attempts=3
+[2018-05-19 16:23:57,862][INFO ] - Cannot clicked on new_folder

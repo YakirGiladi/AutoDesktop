@@ -104,7 +104,7 @@ def list_application():
     master = Tk()
     master.title("Search from a list")
     master.geometry("450x300")
-    master.iconbitmap(default='icon.ico')
+    master.iconbitmap(default='AutoDekstop_logo.ico')
 
 
 

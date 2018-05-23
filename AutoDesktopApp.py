@@ -5,7 +5,7 @@ import AutoDesktop
 import Dictionary
 import helpFrame
 import tkinter
-import os
+import re
 import string
 from tkinter import *
 from tkinter import ttk
@@ -29,6 +29,7 @@ selfCodingFile = "self_coding"
 selfCodingDir = "Self Coding Scripts"
 signScriptsFile = "All Scenarios.txt"
 
+p = re.compile(r'\d+(\.\d+)?$')
 
 class Sas():
 
@@ -211,7 +212,11 @@ class Application(Frame):
 
     def help_frame(self):
 
-        helpFrame.run_help()
+        helpFrame.run_help("Help")
+
+    def about_frame(self):
+
+        helpFrame.run_help("About")
 
     def raise_an_error_msg(title_text,text):
 
@@ -309,19 +314,29 @@ class Application(Frame):
             filemenu.add_command(label="Save", command=self.save, accelerator="Ctrl+S")
             filemenu.add_command(label="Save As", command=self.save_as, accelerator="Ctrl+Shift+S")
             filemenu.add_separator()
-            filemenu.add_cascade(label="Help", command=self.help_frame, accelerator="F1")
             filemenu.add_command(label="Exit", command=self.quit, accelerator="Ctrl+Q")
             menubar.add_cascade(label="File", menu=filemenu)
 
             # create more pulldown menus
+            editmenu = Menu(menubar, tearoff=0)
+            editmenu.add_command(label="Copy", accelerator="Ctrl+C", \
+                                command=lambda: \
+                                master.focus_get().event_generate('<<Copy>>'))
+            editmenu.add_command(label="Cut", accelerator="Ctrl+X", \
+                                command=lambda: \
+                                master.focus_get().event_generate('<<Cut>>'))
+            editmenu.add_command(label="Paste", accelerator="Ctrl+P", \
+                                command=lambda: \
+                                master.focus_get().event_generate('<<Paste>>'))
+            menubar.add_cascade(label="Edit", menu=editmenu)
             # editmenu = Menu(menubar, tearoff=0)
-            # editmenu.add_command(label="Cut", command=hello)
+            
             # editmenu.add_command(label="Copy", command=hello)
             # editmenu.add_command(label="Paste", command=hello)
             # menubar.add_cascade(label="Edit", menu=editmenu)
 
             helpmenu = Menu(menubar, tearoff=0)
-            helpmenu.add_command(label="About", command=hello)
+            helpmenu.add_command(label="About", accelerator="F2", command=self.about_frame)
             menubar.add_cascade(label="Help", menu=helpmenu)
 
             
@@ -445,7 +460,7 @@ class Application(Frame):
             y = self.tf_move_mouse_y_var.get()
             speed_var = self.tf_move_mouse_speed_var.get()
 
-            if valid_input_digit(x) and valid_input_digit(y) and valid_input_digit(speed_var):
+            if valid_input_digit(x) and valid_input_digit(y) and p.match(speed_var):
 
                 if x[0] == '0':
                     x = "1"
@@ -532,9 +547,9 @@ class Application(Frame):
 
             clicktype = self.rbv.get()
             clicks = self.tf_click_time_var.get()
-            sleep_var = self.tf_click_speed_var.get()
+            speed_var = self.tf_click_speed_var.get()
 
-            if valid_input_digit(sleep_var) and valid_input_digit(clicks):
+            if p.match(speed_var) and valid_input_digit(clicks):
 
                 if clicks == "0":
                     clicks = "1"
@@ -544,9 +559,9 @@ class Application(Frame):
                 if clicktype == 1: ## Left
                     clicktype = 'Single'
 
-                insert_to_actions_list("click(\"{}\",{},{})".format(clicktype, clicks, sleep_var))
+                insert_to_actions_list("click(\"{}\",{},{})".format(clicktype, clicks.strip(), speed_var.strip()))
                 if do_action:
-                    AutoDesktop.mouse_click(click_type=clicktype, clicks=clicks, speed=sleep_var)
+                    AutoDesktop.mouse_click(click_type=clicktype, clicks=clicks, speed=speed_var)
             else:
                 Application.raise_an_error_msg("Input Error","Time speed & Clicks must be numbers !")
 
@@ -554,12 +569,15 @@ class Application(Frame):
 
             text = self.tf_typetext_text_var.get().strip()
             if text:
-                speed = int(self.tf_typetext_speed_var.get())
-                self.tf_typetext_text_var.set("")
+                speed_var = self.tf_typetext_speed_var.get()
+                if p.match(speed_var):
+                    self.tf_typetext_text_var.set("")
 
-                insert_to_actions_list("typetext(\"{}\",{})".format(text, speed))
-                if do_action:
-                    AutoDesktop.keyboard_type(type_write=text, speed=speed)
+                    insert_to_actions_list("typetext(\"{}\",{})".format(text, speed_var.strip()))
+                    if do_action:
+                        AutoDesktop.keyboard_type(type_write=text, speed=speed_var)
+                else:
+                    Application.raise_an_error_msg("Input Error","Time speed must be numbers !")
             else:
                 Application.raise_an_error_msg("Input Error","Text field is empty !")
 
@@ -1529,7 +1547,7 @@ list_TF = []
 root = Tk()
 root.geometry("1100x850")
 root.title("AutoDesktop")
-root.iconbitmap(default='icon.ico')
+root.iconbitmap(default='AutoDekstop_logo.ico')
 app = Application(root)
 root.mainloop()
 root.destroy()

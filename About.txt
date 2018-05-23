@@ -1,0 +1,29 @@
+Organizations & companies with product that has a UI
+(User Interface) are required to test & validate the UI 
+functionality.
+These functional tests are carried out by dedicated, trained 
+employees called “Manual Tester”. They perform manual 
+software testing related to the UI, according to given and 
+specific instructions.
+These instructions are known as “User Scenarios”, and 
+their purpose is to simulate a user who performs certain 
+operations using software.
+In case of a problem or finding, they will issue a report, 
+describing the problem and transfer the report to the R&D 
+team (which developed the UI) for further fixing and 
+problem solving.
+
+AutoDesktop is a software designed to save time and 
+manpower, by replacing the manual testing with automated 
+testing (a program that performs a series of actions, in a 
+planned sequence) without human involvement.
+
+AutoDesktop is a Python library that is integrated with 
+software that is well-known to both software developers 
+and users without any background.
+
+The requirement from AutoDesktop is to enable creation 
+of UI scenarios that automatically simulate the user's 
+actions, and thus help to build scripts for UI scenarios for 
+repetitive actions thereby achieving the goal of saving time 
+and manpower.
