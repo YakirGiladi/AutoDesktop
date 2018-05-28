@@ -1,0 +1,25 @@
+New Scenario:
+Create new scenario by clicking on the button “New Scenario”.
+
+Open Scenario:
+Open existing scenarios that located in your database
+by clicking on the button “Open Scenario”.
+In the opened window, choose the scenarios you want.
+
+Save a Scenario:
+Save a scenario by clicking on the image disk button.
+The scenario will save as a text file.
+
+Show All Scenarios:
+Show the all the scenarios that locate in your database
+by clicking on the button “Show All Scenarios”.
+Will open a window that contains all your scenarios.
+
+Self Coding:
+Create scenarios using Python code by clicking on the button “Self Coding”. 
+Will open your default Text Editor contains import of whole AutoDesktop Python library.
+
+OS Actions:
+Setting delays and writings logs by clicking on the buttons “Sleep” and “Log”.
+The sleep time will declare in the time field by the user.
+The log text will declare in the text field by the user.

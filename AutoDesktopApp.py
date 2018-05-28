@@ -161,6 +161,7 @@ class Application(Frame):
 
     def quit(self):
         root.quit()
+        root.destroy()
         # if messagebox.askokcancel("Quit", "Do you want to quit?"):
         #     root.quit()
 
@@ -212,7 +213,7 @@ class Application(Frame):
 
     def help_frame(self):
 
-        helpFrame.run_help("Help")
+        helpFrame.run_help("Instructions")
 
     def about_frame(self):
 
@@ -336,6 +337,7 @@ class Application(Frame):
             # menubar.add_cascade(label="Edit", menu=editmenu)
 
             helpmenu = Menu(menubar, tearoff=0)
+            helpmenu.add_command(label="Instructions", accelerator="F1", command=self.about_frame)
             helpmenu.add_command(label="About", accelerator="F2", command=self.about_frame)
             menubar.add_cascade(label="Help", menu=helpmenu)
 
@@ -1530,13 +1532,16 @@ class Application(Frame):
 
 
         self.openfile = openfile
+        self.new_scenario_com = new_scenario_com
         # self.save = save
 
         ####### Shortkeys #######
         root.bind_all("<Control-q>", func=quit)
         root.bind_all("<Control-s>", func=Application.save)
+
         root.bind_all("<Control-Shift-S>", func=Application.save_as)
         root.bind_all("<F1>", func=Application.help_frame)
+        root.bind_all("<F2>", func=Application.about_frame)
 
 
         if disable_unsupported:

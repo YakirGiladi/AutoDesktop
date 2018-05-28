@@ -12,13 +12,18 @@ class Help():
     global title, help_content
 
     def quit(self):
+
         global master_h
+        
         master_h.quit()
         master_h.destroy()
 
-    def __init__(self, master_h=None):
+    # def __init__(self, master_h=None):
+    def __init__(self):
 
-        self.master_h = master_h
+        global master_h
+
+        # self.master = master_h
 
         ############ AutoDekstop Help ############
         adt_help_frame = LabelFrame(master_h, labelanchor=N, text=title, font="Arial 25 bold italic")
@@ -48,12 +53,18 @@ def run_help(kind):
 
         master_h.geometry("500x650")
 
-    elif kind == "Help":
-        title = "AutoDekstop Help"
+    elif kind == "Instructions":
+        title = "AutoDekstop Instructions"
+
+        with open ("Instructions.txt", 'r') as abf:
+            help_content = abf.read()
+
+        master_h.geometry("600x550")
 
     
     master_h.title(title)
     
     master_h.iconbitmap(default='AutoDekstop_logo.ico')
-    app_help = Help(master_h)
+    # app_help = Help(master_h)
+    app_help = Help()
     master_h.mainloop()
