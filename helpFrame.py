@@ -51,7 +51,7 @@ def run_help(kind):
         with open ("About.txt", 'r') as abf:
             help_content = abf.read()
 
-        master_h.geometry("500x650")
+        master_h.geometry("500x720")
 
     elif kind == "Instructions":
         title = "AutoDekstop Instructions"
@@ -59,7 +59,7 @@ def run_help(kind):
         with open ("Instructions.txt", 'r') as abf:
             help_content = abf.read()
 
-        master_h.geometry("600x550")
+        master_h.geometry("700x600")
 
     
     master_h.title(title)

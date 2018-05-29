@@ -337,7 +337,7 @@ class Application(Frame):
             # menubar.add_cascade(label="Edit", menu=editmenu)
 
             helpmenu = Menu(menubar, tearoff=0)
-            helpmenu.add_command(label="Instructions", accelerator="F1", command=self.about_frame)
+            helpmenu.add_command(label="Instructions", accelerator="F1", command=self.help_frame)
             helpmenu.add_command(label="About", accelerator="F2", command=self.about_frame)
             menubar.add_cascade(label="Help", menu=helpmenu)
 

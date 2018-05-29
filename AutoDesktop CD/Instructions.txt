@@ -1,0 +1,11 @@
+1)Install python-3.6.2.exe on your pc
+2)Extract AutoDesktop.zip where you want.
+3)Press on start (or winkey).
+4)Type "cmd".
+5)Press on Enter key
+6)Run the command "pip install Pillow"
+7)Run the command "pip install pyautogui"
+8)Run the command "pip install opencv-python"
+9)Run the command "cd" to go to where you extracted the AutoDesktop.zip.
+10)Run the command "python AutoDesktopApp.py
+ 
