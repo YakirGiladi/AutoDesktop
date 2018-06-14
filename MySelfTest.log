@@ -1,0 +1,292 @@
+[2018-06-15 00:50:15,753][INFO ] - Scenario Start !
+INFO:AutoDesktop:Scenario Start !
+[2018-06-15 00:50:15,754][INFO ] - open the network connection
+INFO:AutoDesktop:open the network connection
+[2018-06-15 00:50:15,754][INFO ] - Multi pressed on ['winleft', 'r']
+INFO:AutoDesktop:Multi pressed on ['winleft', 'r']
+[2018-06-15 00:50:17,878][INFO ] - typed 'ncpa.cpl' in speed 0.2
+INFO:AutoDesktop:typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:50:17,980][INFO ] - Pressed enter
+INFO:AutoDesktop:Pressed enter
+[2018-06-15 00:50:17,980][INFO ] - verify if the window opened
+INFO:AutoDesktop:verify if the window opened
+[2018-06-15 00:50:18,771][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/network_connection.PNG. attempts=1
+INFO:AutoDesktop:Cannot found C:/AutoDesktop/Test_imgs/network_connection.PNG. attempts=1
+[2018-06-15 00:50:19,776][INFO ] - Try to find the 'network_connection_unfocused'
+INFO:AutoDesktop:Try to find the 'network_connection_unfocused'
+[2018-06-15 00:50:20,536][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. attempts=1
+INFO:AutoDesktop:Cannot found C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. attempts=1
+[2018-06-15 00:50:21,540][ERROR] - The network connection window wasn't open
+ERROR:AutoDesktop:The network connection window wasn't open
+[2018-06-15 00:50:30,427][INFO ] - Scenario Start !
+INFO:AutoDesktop:Scenario Start !
+[2018-06-15 00:50:30,428][INFO ] - open the network connection
+INFO:AutoDesktop:open the network connection
+[2018-06-15 00:50:30,428][INFO ] - Multi pressed on ['winleft', 'r']
+INFO:AutoDesktop:Multi pressed on ['winleft', 'r']
+[2018-06-15 00:50:32,533][INFO ] - typed 'ncpa.cpl' in speed 0.2
+INFO:AutoDesktop:typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:50:32,633][INFO ] - Pressed enter
+INFO:AutoDesktop:Pressed enter
+[2018-06-15 00:50:32,633][INFO ] - verify if the window opened
+INFO:AutoDesktop:verify if the window opened
+[2018-06-15 00:50:33,460][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:50:33,463][INFO ] - Try to find the 'network_connection_unfocused'
+INFO:AutoDesktop:Try to find the 'network_connection_unfocused'
+[2018-06-15 00:50:34,237][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:50:34,241][ERROR] - The network connection window wasn't open
+ERROR:AutoDesktop:The network connection window wasn't open
+[2018-06-15 00:52:07,106][INFO ] - Scenario Start !
+INFO:AutoDesktop:Scenario Start !
+[2018-06-15 00:52:07,106][INFO ] - open the network connection
+INFO:AutoDesktop:open the network connection
+[2018-06-15 00:52:07,106][INFO ] - Multi pressed on ['winleft', 'r']
+INFO:AutoDesktop:Multi pressed on ['winleft', 'r']
+[2018-06-15 00:52:09,212][INFO ] - typed 'ncpa.cpl' in speed 0.2
+INFO:AutoDesktop:typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:52:09,312][INFO ] - Pressed enter
+INFO:AutoDesktop:Pressed enter
+[2018-06-15 00:52:09,312][INFO ] - verify if the window opened
+INFO:AutoDesktop:verify if the window opened
+[2018-06-15 00:52:10,143][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/network_connection.PNG. attempts=1
+INFO:AutoDesktop:Cannot found C:/AutoDesktop/Test_imgs/network_connection.PNG. attempts=1
+[2018-06-15 00:52:11,150][INFO ] - Try to find the 'network_connection_unfocused'
+INFO:AutoDesktop:Try to find the 'network_connection_unfocused'
+[2018-06-15 00:52:12,007][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:52:12,011][ERROR] - The network connection window wasn't open
+ERROR:AutoDesktop:The network connection window wasn't open
+[2018-06-15 00:52:45,045][INFO ] - Scenario Start !
+INFO:AutoDesktop:Scenario Start !
+[2018-06-15 00:52:45,046][INFO ] - open the network connection
+INFO:AutoDesktop:open the network connection
+[2018-06-15 00:52:45,046][INFO ] - Multi pressed on ['winleft', 'r']
+INFO:AutoDesktop:Multi pressed on ['winleft', 'r']
+[2018-06-15 00:52:47,151][INFO ] - typed 'ncpa.cpl' in speed 0.2
+INFO:AutoDesktop:typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:52:47,252][INFO ] - Pressed enter
+INFO:AutoDesktop:Pressed enter
+[2018-06-15 00:52:47,252][INFO ] - verify if the window opened
+INFO:AutoDesktop:verify if the window opened
+[2018-06-15 00:52:48,203][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:52:49,006][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:52:49,009][INFO ] - Try to find the 'network_connection_unfocused'
+INFO:AutoDesktop:Try to find the 'network_connection_unfocused'
+[2018-06-15 00:52:49,804][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:52:50,584][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:52:50,587][ERROR] - The network connection window wasn't open
+ERROR:AutoDesktop:The network connection window wasn't open
+[2018-06-15 00:53:24,299][INFO ] - Scenario Start !
+INFO:AutoDesktop:Scenario Start !
+[2018-06-15 00:53:24,300][INFO ] - open the network connection
+INFO:AutoDesktop:open the network connection
+[2018-06-15 00:53:24,300][INFO ] - Multi pressed on ['winleft', 'r']
+INFO:AutoDesktop:Multi pressed on ['winleft', 'r']
+[2018-06-15 00:53:26,405][INFO ] - typed 'ncpa.cpl' in speed 0.2
+INFO:AutoDesktop:typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:53:26,505][INFO ] - Pressed enter
+INFO:AutoDesktop:Pressed enter
+[2018-06-15 00:53:26,505][INFO ] - verify if the window opened
+INFO:AutoDesktop:verify if the window opened
+[2018-06-15 00:53:27,451][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:53:28,268][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:53:28,271][INFO ] - Try to find the 'network_connection_unfocused'
+INFO:AutoDesktop:Try to find the 'network_connection_unfocused'
+[2018-06-15 00:53:29,084][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:53:29,883][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:53:29,886][ERROR] - The network connection window wasn't open
+ERROR:AutoDesktop:The network connection window wasn't open
+[2018-06-15 00:54:47,571][INFO ] - Scenario Start !
+INFO:AutoDesktop:Scenario Start !
+[2018-06-15 00:54:47,572][INFO ] - open the network connection
+INFO:AutoDesktop:open the network connection
+[2018-06-15 00:54:47,572][INFO ] - Multi pressed on ['winleft', 'r']
+INFO:AutoDesktop:Multi pressed on ['winleft', 'r']
+[2018-06-15 00:54:49,677][INFO ] - typed 'ncpa.cpl' in speed 0.2
+INFO:AutoDesktop:typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:54:49,778][INFO ] - Pressed enter
+INFO:AutoDesktop:Pressed enter
+[2018-06-15 00:54:49,778][INFO ] - verify if the window opened
+INFO:AutoDesktop:verify if the window opened
+[2018-06-15 00:54:50,595][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:54:51,358][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:54:52,151][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+[2018-06-15 00:54:52,154][INFO ] - Try to find the 'network_connection_unfocused'
+INFO:AutoDesktop:Try to find the 'network_connection_unfocused'
+[2018-06-15 00:54:52,939][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:54:53,716][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:54:53,719][ERROR] - The network connection window wasn't open
+ERROR:AutoDesktop:The network connection window wasn't open
+[2018-06-15 00:55:29,491][INFO ] - Scenario Start !
+INFO:AutoDesktop:Scenario Start !
+[2018-06-15 00:55:29,491][INFO ] - open the network connection
+INFO:AutoDesktop:open the network connection
+[2018-06-15 00:55:29,491][INFO ] - Multi pressed on ['winleft', 'r']
+INFO:AutoDesktop:Multi pressed on ['winleft', 'r']
+[2018-06-15 00:55:31,595][INFO ] - typed 'ncpa.cpl' in speed 0.2
+INFO:AutoDesktop:typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:55:31,697][INFO ] - Pressed enter
+INFO:AutoDesktop:Pressed enter
+[2018-06-15 00:55:31,697][INFO ] - verify if the window opened
+INFO:AutoDesktop:verify if the window opened
+[2018-06-15 00:55:32,639][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:55:33,440][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:55:34,201][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+[2018-06-15 00:55:34,205][INFO ] - Try to find the 'network_connection_unfocused'
+INFO:AutoDesktop:Try to find the 'network_connection_unfocused'
+[2018-06-15 00:55:34,967][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:55:35,734][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:55:35,737][ERROR] - The network connection window wasn't open
+ERROR:AutoDesktop:The network connection window wasn't open
+[2018-06-15 00:56:16,279][INFO ] - Scenario Start !
+INFO:AutoDesktop:Scenario Start !
+[2018-06-15 00:56:16,280][INFO ] - open the network connection
+INFO:AutoDesktop:open the network connection
+[2018-06-15 00:56:16,280][INFO ] - Multi pressed on ['winleft', 'r']
+INFO:AutoDesktop:Multi pressed on ['winleft', 'r']
+[2018-06-15 00:56:18,384][INFO ] - typed 'ncpa.cpl' in speed 0.2
+INFO:AutoDesktop:typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:56:18,485][INFO ] - Pressed enter
+INFO:AutoDesktop:Pressed enter
+[2018-06-15 00:56:18,485][INFO ] - verify if the window opened
+INFO:AutoDesktop:verify if the window opened
+[2018-06-15 00:56:19,425][INFO ] - C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:56:20,226][INFO ] - C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:56:20,985][INFO ] - C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+[2018-06-15 00:56:20,988][INFO ] - Try to find the 'network_connection_unfocused'
+INFO:AutoDesktop:Try to find the 'network_connection_unfocused'
+[2018-06-15 00:56:21,745][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:56:22,494][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:56:22,497][ERROR] - The network connection window wasn't open
+ERROR:AutoDesktop:The network connection window wasn't open
+[2018-06-15 00:57:22,513][INFO ] - Scenario Start !
+INFO:AutoDesktop:Scenario Start !
+[2018-06-15 00:57:22,514][INFO ] - open the network connection
+INFO:AutoDesktop:open the network connection
+[2018-06-15 00:57:22,514][INFO ] - Multi pressed on ['winleft', 'r']
+INFO:AutoDesktop:Multi pressed on ['winleft', 'r']
+[2018-06-15 00:57:24,617][INFO ] - typed 'ncpa.cpl' in speed 0.2
+INFO:AutoDesktop:typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:57:24,718][INFO ] - Pressed enter
+INFO:AutoDesktop:Pressed enter
+[2018-06-15 00:57:24,718][INFO ] - verify if the window opened
+INFO:AutoDesktop:verify if the window opened
+[2018-06-15 00:57:31,152][INFO ] - Scenario Start !
+INFO:AutoDesktop:Scenario Start !
+[2018-06-15 00:57:31,152][INFO ] - open the network connection
+INFO:AutoDesktop:open the network connection
+[2018-06-15 00:57:31,152][INFO ] - Multi pressed on ['winleft', 'r']
+INFO:AutoDesktop:Multi pressed on ['winleft', 'r']
+[2018-06-15 00:57:33,258][INFO ] - typed 'ncpa.cpl' in speed 0.2
+INFO:AutoDesktop:typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:57:33,358][INFO ] - Pressed enter
+INFO:AutoDesktop:Pressed enter
+[2018-06-15 00:57:33,358][INFO ] - verify if the window opened
+INFO:AutoDesktop:verify if the window opened
+[2018-06-15 00:57:35,358][INFO ] - Sleeing 2 sec
+INFO:AutoDesktop:Sleeing 2 sec
+[2018-06-15 00:57:36,163][INFO ] - C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:57:36,922][INFO ] - C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:57:37,677][INFO ] - C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+[2018-06-15 00:57:37,681][INFO ] - Try to find the 'network_connection_unfocused'
+INFO:AutoDesktop:Try to find the 'network_connection_unfocused'
+[2018-06-15 00:57:38,445][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:57:39,214][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+INFO:AutoDesktop:C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:57:39,218][ERROR] - The network connection window wasn't open
+ERROR:AutoDesktop:The network connection window wasn't open
+[2018-06-15 01:03:20,162][INFO ] - Scenario Start !
+INFO:AutoDesktop:Scenario Start !
+[2018-06-15 01:03:20,163][INFO ] - open the network connection
+INFO:AutoDesktop:open the network connection
+[2018-06-15 01:03:20,163][INFO ] - Multi pressed on ['winleft', 'r']
+INFO:AutoDesktop:Multi pressed on ['winleft', 'r']
+[2018-06-15 01:03:22,269][INFO ] - typed 'ncpa.cpl' in speed 0.2
+INFO:AutoDesktop:typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 01:03:22,371][INFO ] - Pressed enter
+INFO:AutoDesktop:Pressed enter
+[2018-06-15 01:03:22,371][INFO ] - verify if the window opened
+INFO:AutoDesktop:verify if the window opened
+[2018-06-15 01:03:24,372][INFO ] - Sleeing 2 sec
+INFO:AutoDesktop:Sleeing 2 sec
+[2018-06-15 01:03:25,192][INFO ] - Found C:/AutoDesktop/Test_imgs/test.png coordinates: 688.5, 274.0
+INFO:AutoDesktop:Found C:/AutoDesktop/Test_imgs/test.png coordinates: 688.5, 274.0
+[2018-06-15 01:03:25,192][INFO ] - Opened the network connection window
+INFO:AutoDesktop:Opened the network connection window
+[2018-06-15 01:03:27,763][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet_3.png coordinates: 682.5, 275.0
+INFO:AutoDesktop:Found C:/AutoDesktop/Test_imgs/enthernet_3.png coordinates: 682.5, 275.0
+[2018-06-15 01:03:27,763][INFO ] - Clicked enthernet_3 object 
+INFO:AutoDesktop:Clicked enthernet_3 object 
+[2018-06-15 01:03:43,129][INFO ] - Scenario Start !
+INFO:AutoDesktop:Scenario Start !
+[2018-06-15 01:03:43,129][INFO ] - open the network connection
+INFO:AutoDesktop:open the network connection
+[2018-06-15 01:03:43,129][INFO ] - Multi pressed on ['winleft', 'r']
+INFO:AutoDesktop:Multi pressed on ['winleft', 'r']
+[2018-06-15 01:03:45,234][INFO ] - typed 'ncpa.cpl' in speed 0.2
+INFO:AutoDesktop:typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 01:03:45,334][INFO ] - Pressed enter
+INFO:AutoDesktop:Pressed enter
+[2018-06-15 01:03:45,334][INFO ] - verify if the window opened
+INFO:AutoDesktop:verify if the window opened
+[2018-06-15 01:03:47,334][INFO ] - Sleeing 2 sec
+INFO:AutoDesktop:Sleeing 2 sec
+[2018-06-15 01:03:48,145][INFO ] - Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+INFO:AutoDesktop:Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+[2018-06-15 01:03:48,145][INFO ] - Opened the network connection window
+INFO:AutoDesktop:Opened the network connection window
+[2018-06-15 01:03:50,697][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet_3.png coordinates: 682.5, 275.0
+INFO:AutoDesktop:Found C:/AutoDesktop/Test_imgs/enthernet_3.png coordinates: 682.5, 275.0
+[2018-06-15 01:03:50,697][INFO ] - Clicked enthernet_3 object 
+INFO:AutoDesktop:Clicked enthernet_3 object 
+[2018-06-15 01:04:10,577][INFO ] - Scenario Start !
+INFO:AutoDesktop:Scenario Start !
+[2018-06-15 01:04:10,578][INFO ] - open the network connection
+INFO:AutoDesktop:open the network connection
+[2018-06-15 01:04:10,578][INFO ] - Multi pressed on ['winleft', 'r']
+INFO:AutoDesktop:Multi pressed on ['winleft', 'r']
+[2018-06-15 01:04:12,681][INFO ] - typed 'ncpa.cpl' in speed 0.2
+INFO:AutoDesktop:typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 01:04:12,781][INFO ] - Pressed enter
+INFO:AutoDesktop:Pressed enter
+[2018-06-15 01:04:12,781][INFO ] - verify if the window opened
+INFO:AutoDesktop:verify if the window opened
+[2018-06-15 01:04:14,782][INFO ] - Sleeing 2 sec
+INFO:AutoDesktop:Sleeing 2 sec
+[2018-06-15 01:04:15,579][INFO ] - Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+INFO:AutoDesktop:Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+[2018-06-15 01:04:15,579][INFO ] - Opened the network connection window
+INFO:AutoDesktop:Opened the network connection window
+[2018-06-15 01:04:18,114][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet_3.png coordinates: 682.5, 275.0
+INFO:AutoDesktop:Found C:/AutoDesktop/Test_imgs/enthernet_3.png coordinates: 682.5, 275.0
+[2018-06-15 01:04:18,114][INFO ] - Clicked enthernet_3 object 
+INFO:AutoDesktop:Clicked enthernet_3 object 

@@ -547,3 +547,331 @@
 [2018-05-19 16:23:55,037][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/new_folder.png. attempts=2
 [2018-05-19 16:23:56,862][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/new_folder.png. attempts=3
 [2018-05-19 16:23:57,862][INFO ] - Cannot clicked on new_folder
+[2018-06-14 23:49:34,234][INFO ] - Language set to 'English'
+[2018-06-14 23:49:34,235][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-14 23:49:39,098][INFO ] - Language set to 'English'
+[2018-06-14 23:49:39,098][INFO ] - Multi pressed on ['winleft', 'R']
+[2018-06-14 23:52:23,613][INFO ] - Language set to 'English'
+[2018-06-14 23:52:23,613][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-14 23:52:25,719][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-14 23:52:29,545][INFO ] - Language set to 'English'
+[2018-06-14 23:52:29,545][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-14 23:52:30,850][INFO ] - typed 'ncpa.cpl' in speed 0.1
+[2018-06-14 23:52:51,062][INFO ] - Language set to 'English'
+[2018-06-14 23:52:51,062][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-14 23:52:53,171][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-14 23:53:13,989][INFO ] - Language set to 'English'
+[2018-06-14 23:53:13,989][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-14 23:53:16,094][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-14 23:53:16,194][INFO ] - Pressed enter
+[2018-06-15 00:11:25,078][INFO ] - Language set to 'English'
+[2018-06-15 00:11:25,078][INFO ] - Scenario Start !
+[2018-06-15 00:11:25,078][INFO ] - open the network connection
+[2018-06-15 00:11:25,079][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:11:27,185][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:11:27,285][INFO ] - Pressed enter
+[2018-06-15 00:11:27,285][INFO ] - verify if the window opened
+[2018-06-15 00:11:28,392][INFO ] - network_connection.PNG. Warning: 'NoneType' object has no attribute 'shape'. attempts=1
+[2018-06-15 00:11:28,394][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:11:29,407][INFO ] - network_connection_unfocused.PNG. Warning: 'NoneType' object has no attribute 'shape'. attempts=1
+[2018-06-15 00:11:29,410][ERROR] - The network connection window wasn't open
+[2018-06-15 00:12:11,396][INFO ] - Language set to 'English'
+[2018-06-15 00:12:11,396][INFO ] - Scenario Start !
+[2018-06-15 00:12:11,396][INFO ] - open the network connection
+[2018-06-15 00:12:11,396][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:12:13,503][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:12:13,603][INFO ] - Pressed enter
+[2018-06-15 00:12:13,603][INFO ] - verify if the window opened
+[2018-06-15 00:12:14,598][INFO ] - network_connection.PNG. Warning: 'NoneType' object has no attribute 'shape'. attempts=1
+[2018-06-15 00:12:14,600][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:12:15,525][INFO ] - network_connection_unfocused.PNG. Warning: 'NoneType' object has no attribute 'shape'. attempts=1
+[2018-06-15 00:12:15,528][ERROR] - The network connection window wasn't open
+[2018-06-15 00:12:54,531][INFO ] - Language set to 'English'
+[2018-06-15 00:12:54,531][INFO ] - Scenario Start !
+[2018-06-15 00:12:54,531][INFO ] - open the network connection
+[2018-06-15 00:12:54,531][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:12:56,637][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:12:56,737][INFO ] - Pressed enter
+[2018-06-15 00:12:56,737][INFO ] - verify if the window opened
+[2018-06-15 00:12:57,817][INFO ] - network_connection.PNG. Warning: 'NoneType' object has no attribute 'shape'. attempts=1
+[2018-06-15 00:12:57,818][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:12:58,836][INFO ] - network_connection_unfocused.PNG. Warning: 'NoneType' object has no attribute 'shape'. attempts=1
+[2018-06-15 00:12:58,841][ERROR] - The network connection window wasn't open
+[2018-06-15 00:13:06,648][INFO ] - Language set to 'English'
+[2018-06-15 00:13:06,648][INFO ] - Scenario Start !
+[2018-06-15 00:13:06,648][INFO ] - open the network connection
+[2018-06-15 00:13:06,648][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:13:08,754][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:13:08,854][INFO ] - Pressed enter
+[2018-06-15 00:13:08,854][INFO ] - verify if the window opened
+[2018-06-15 00:13:09,956][INFO ] - network_connection.PNG. Warning: 'NoneType' object has no attribute 'shape'. attempts=1
+[2018-06-15 00:13:09,958][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:13:10,980][INFO ] - network_connection_unfocused.PNG. Warning: 'NoneType' object has no attribute 'shape'. attempts=1
+[2018-06-15 00:13:10,983][ERROR] - The network connection window wasn't open
+[2018-06-15 00:43:08,369][INFO ] - Language set to 'English'
+[2018-06-15 00:43:08,369][INFO ] - Scenario Start !
+[2018-06-15 00:43:08,370][INFO ] - open the network connection
+[2018-06-15 00:43:08,370][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:43:10,474][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:43:10,574][INFO ] - Pressed enter
+[2018-06-15 00:43:10,574][INFO ] - verify if the window opened
+[2018-06-15 00:43:11,494][INFO ] - network_connection.PNG. Warning: 'NoneType' object has no attribute 'shape'. attempts=1
+[2018-06-15 00:43:11,497][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:43:12,243][INFO ] - network_connection_unfocused.PNG. Warning: 'NoneType' object has no attribute 'shape'. attempts=1
+[2018-06-15 00:43:12,245][ERROR] - The network connection window wasn't open
+[2018-06-15 00:43:35,757][INFO ] - Language set to 'English'
+[2018-06-15 00:43:35,758][INFO ] - Scenario Start !
+[2018-06-15 00:43:35,758][INFO ] - open the network connection
+[2018-06-15 00:43:35,758][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:43:37,864][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:43:37,965][INFO ] - Pressed enter
+[2018-06-15 00:43:37,965][INFO ] - verify if the window opened
+[2018-06-15 00:43:38,728][INFO ] - network_connection.PNG. Warning: 'NoneType' object has no attribute 'shape'. attempts=1
+[2018-06-15 00:43:38,730][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:43:39,451][INFO ] - network_connection_unfocused.PNG. Warning: 'NoneType' object has no attribute 'shape'. attempts=1
+[2018-06-15 00:43:39,453][ERROR] - The network connection window wasn't open
+[2018-06-15 00:44:17,486][INFO ] - Language set to 'English'
+[2018-06-15 00:44:17,487][INFO ] - Scenario Start !
+[2018-06-15 00:44:17,487][INFO ] - open the network connection
+[2018-06-15 00:44:17,487][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:44:19,591][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:44:19,692][INFO ] - Pressed enter
+[2018-06-15 00:44:19,692][INFO ] - verify if the window opened
+[2018-06-15 00:44:20,571][INFO ] - Test_imgs/network_connection.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:44:20,574][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:44:21,386][INFO ] - Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:44:21,389][ERROR] - The network connection window wasn't open
+[2018-06-15 00:44:55,342][INFO ] - Language set to 'English'
+[2018-06-15 00:44:55,342][INFO ] - Scenario Start !
+[2018-06-15 00:44:55,342][INFO ] - open the network connection
+[2018-06-15 00:44:55,342][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:44:57,446][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:44:57,546][INFO ] - Pressed enter
+[2018-06-15 00:44:57,546][INFO ] - verify if the window opened
+[2018-06-15 00:44:58,369][INFO ] - Test_imgs/network_connection.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:44:58,372][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:44:59,129][INFO ] - Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:44:59,132][ERROR] - The network connection window wasn't open
+[2018-06-15 00:45:55,371][INFO ] - Language set to 'English'
+[2018-06-15 00:45:55,372][INFO ] - Scenario Start !
+[2018-06-15 00:45:55,372][INFO ] - open the network connection
+[2018-06-15 00:45:55,372][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:45:57,477][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:45:57,578][INFO ] - Pressed enter
+[2018-06-15 00:45:57,578][INFO ] - verify if the window opened
+[2018-06-15 00:45:58,419][INFO ] - Test_imgs/network_connection.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:45:58,432][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:45:59,230][INFO ] - Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:45:59,233][ERROR] - The network connection window wasn't open
+[2018-06-15 00:48:27,271][INFO ] - Multi pressed on ['winleft', 'd']
+[2018-06-15 00:48:28,154][INFO ] - Language set to 'English'
+[2018-06-15 00:48:28,255][INFO ] - Pressed winleft
+[2018-06-15 00:48:28,356][INFO ] - typed 'pc' in speed 0
+[2018-06-15 00:48:28,456][INFO ] - Pressed enter
+[2018-06-15 00:48:29,457][INFO ] - Sleeing 1 sec
+[2018-06-15 00:48:32,097][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver.png coordinates: 146.0, 230.5
+[2018-06-15 00:48:32,923][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-06-15 00:48:34,727][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=2
+[2018-06-15 00:48:36,525][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=3
+[2018-06-15 00:48:40,096][INFO ] - Found C:/AutoDesktop/Test_imgs/new_folder.png coordinates: 551.0, 103.5
+[2018-06-15 00:48:41,302][INFO ] - typed 'test_folder' in speed 0.1
+[2018-06-15 00:48:41,402][INFO ] - Pressed enter
+[2018-06-15 00:48:41,502][INFO ] - Pressed up
+[2018-06-15 00:48:41,603][INFO ] - Pressed up
+[2018-06-15 00:48:41,704][INFO ] - Pressed up
+[2018-06-15 00:48:41,804][INFO ] - Pressed up
+[2018-06-15 00:48:41,904][INFO ] - Pressed up
+[2018-06-15 00:48:44,462][INFO ] - Found C:/AutoDesktop/Test_imgs/test_folder.png coordinates: 423.5, 986.0
+[2018-06-15 00:48:44,562][INFO ] - Pressed up
+[2018-06-15 00:48:44,662][INFO ] - Pressed up
+[2018-06-15 00:48:44,762][INFO ] - Pressed up
+[2018-06-15 00:48:44,863][INFO ] - Pressed enter
+[2018-06-15 00:48:44,963][INFO ] - Pressed enter
+[2018-06-15 00:48:45,795][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/test_folder.png. attempts=1
+[2018-06-15 00:48:46,797][INFO ] - 'Delete 'test folder''
+[2018-06-15 00:48:46,797][INFO ] - test PASSED
+[2018-06-15 00:50:15,752][INFO ] - Language set to 'English'
+[2018-06-15 00:50:15,753][INFO ] - Scenario Start !
+[2018-06-15 00:50:15,754][INFO ] - open the network connection
+[2018-06-15 00:50:15,754][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:50:17,878][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:50:17,980][INFO ] - Pressed enter
+[2018-06-15 00:50:17,980][INFO ] - verify if the window opened
+[2018-06-15 00:50:18,771][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/network_connection.PNG. attempts=1
+[2018-06-15 00:50:19,776][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:50:20,536][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. attempts=1
+[2018-06-15 00:50:21,540][ERROR] - The network connection window wasn't open
+[2018-06-15 00:50:30,427][INFO ] - Language set to 'English'
+[2018-06-15 00:50:30,427][INFO ] - Scenario Start !
+[2018-06-15 00:50:30,428][INFO ] - open the network connection
+[2018-06-15 00:50:30,428][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:50:32,533][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:50:32,633][INFO ] - Pressed enter
+[2018-06-15 00:50:32,633][INFO ] - verify if the window opened
+[2018-06-15 00:50:33,460][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:50:33,463][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:50:34,237][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:50:34,241][ERROR] - The network connection window wasn't open
+[2018-06-15 00:52:07,105][INFO ] - Language set to 'English'
+[2018-06-15 00:52:07,106][INFO ] - Scenario Start !
+[2018-06-15 00:52:07,106][INFO ] - open the network connection
+[2018-06-15 00:52:07,106][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:52:09,212][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:52:09,312][INFO ] - Pressed enter
+[2018-06-15 00:52:09,312][INFO ] - verify if the window opened
+[2018-06-15 00:52:10,143][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/network_connection.PNG. attempts=1
+[2018-06-15 00:52:11,150][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:52:12,007][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:52:12,011][ERROR] - The network connection window wasn't open
+[2018-06-15 00:52:45,045][INFO ] - Language set to 'English'
+[2018-06-15 00:52:45,045][INFO ] - Scenario Start !
+[2018-06-15 00:52:45,046][INFO ] - open the network connection
+[2018-06-15 00:52:45,046][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:52:47,151][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:52:47,252][INFO ] - Pressed enter
+[2018-06-15 00:52:47,252][INFO ] - verify if the window opened
+[2018-06-15 00:52:48,203][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:52:49,006][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:52:49,009][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:52:49,804][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:52:50,584][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.PNG. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:52:50,587][ERROR] - The network connection window wasn't open
+[2018-06-15 00:53:24,299][INFO ] - Language set to 'English'
+[2018-06-15 00:53:24,299][INFO ] - Scenario Start !
+[2018-06-15 00:53:24,300][INFO ] - open the network connection
+[2018-06-15 00:53:24,300][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:53:26,405][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:53:26,505][INFO ] - Pressed enter
+[2018-06-15 00:53:26,505][INFO ] - verify if the window opened
+[2018-06-15 00:53:27,451][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:53:28,268][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:53:28,271][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:53:29,084][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:53:29,883][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:53:29,886][ERROR] - The network connection window wasn't open
+[2018-06-15 00:54:47,571][INFO ] - Language set to 'English'
+[2018-06-15 00:54:47,571][INFO ] - Scenario Start !
+[2018-06-15 00:54:47,572][INFO ] - open the network connection
+[2018-06-15 00:54:47,572][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:54:49,677][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:54:49,778][INFO ] - Pressed enter
+[2018-06-15 00:54:49,778][INFO ] - verify if the window opened
+[2018-06-15 00:54:50,595][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:54:51,358][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:54:52,151][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+[2018-06-15 00:54:52,154][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:54:52,939][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:54:53,716][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:54:53,719][ERROR] - The network connection window wasn't open
+[2018-06-15 00:55:29,490][INFO ] - Language set to 'English'
+[2018-06-15 00:55:29,491][INFO ] - Scenario Start !
+[2018-06-15 00:55:29,491][INFO ] - open the network connection
+[2018-06-15 00:55:29,491][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:55:31,595][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:55:31,697][INFO ] - Pressed enter
+[2018-06-15 00:55:31,697][INFO ] - verify if the window opened
+[2018-06-15 00:55:32,639][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:55:33,440][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:55:34,201][INFO ] - C:/AutoDesktop/Test_imgs/network_connection.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+[2018-06-15 00:55:34,205][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:55:34,967][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:55:35,734][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:55:35,737][ERROR] - The network connection window wasn't open
+[2018-06-15 00:56:16,279][INFO ] - Language set to 'English'
+[2018-06-15 00:56:16,279][INFO ] - Scenario Start !
+[2018-06-15 00:56:16,280][INFO ] - open the network connection
+[2018-06-15 00:56:16,280][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:56:18,384][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:56:18,485][INFO ] - Pressed enter
+[2018-06-15 00:56:18,485][INFO ] - verify if the window opened
+[2018-06-15 00:56:19,425][INFO ] - C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:56:20,226][INFO ] - C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:56:20,985][INFO ] - C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+[2018-06-15 00:56:20,988][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:56:21,745][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:56:22,494][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:56:22,497][ERROR] - The network connection window wasn't open
+[2018-06-15 00:56:52,898][INFO ] - Language set to 'English'
+[2018-06-15 00:56:52,898][INFO ] - Scenario Start !
+[2018-06-15 00:56:52,898][INFO ] - open the network connection
+[2018-06-15 00:56:52,898][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:56:55,003][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:56:55,103][INFO ] - Pressed enter
+[2018-06-15 00:56:55,103][INFO ] - verify if the window opened
+[2018-06-15 00:57:22,513][INFO ] - Language set to 'English'
+[2018-06-15 00:57:22,513][INFO ] - Scenario Start !
+[2018-06-15 00:57:22,514][INFO ] - open the network connection
+[2018-06-15 00:57:22,514][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:57:24,617][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:57:24,718][INFO ] - Pressed enter
+[2018-06-15 00:57:24,718][INFO ] - verify if the window opened
+[2018-06-15 00:57:31,151][INFO ] - Language set to 'English'
+[2018-06-15 00:57:31,152][INFO ] - Scenario Start !
+[2018-06-15 00:57:31,152][INFO ] - open the network connection
+[2018-06-15 00:57:31,152][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 00:57:33,258][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 00:57:33,358][INFO ] - Pressed enter
+[2018-06-15 00:57:33,358][INFO ] - verify if the window opened
+[2018-06-15 00:57:35,358][INFO ] - Sleeing 2 sec
+[2018-06-15 00:57:36,163][INFO ] - C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:57:36,922][INFO ] - C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:57:37,677][INFO ] - C:/AutoDesktop/Test_imgs/test.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=3
+[2018-06-15 00:57:37,681][INFO ] - Try to find the 'network_connection_unfocused'
+[2018-06-15 00:57:38,445][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=1
+[2018-06-15 00:57:39,214][INFO ] - C:/AutoDesktop/Test_imgs/network_connection_unfocused.png. Warning: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(). attempts=2
+[2018-06-15 00:57:39,218][ERROR] - The network connection window wasn't open
+[2018-06-15 01:02:47,377][INFO ] - Language set to 'English'
+[2018-06-15 01:02:47,478][INFO ] - Pressed winleft
+[2018-06-15 01:02:47,579][INFO ] - typed 'pc' in speed 0
+[2018-06-15 01:02:47,679][INFO ] - Pressed enter
+[2018-06-15 01:02:48,679][INFO ] - Sleeing 1 sec
+[2018-06-15 01:02:49,615][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=1
+[2018-06-15 01:02:51,424][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=2
+[2018-06-15 01:02:53,221][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/C_driver.png. attempts=3
+[2018-06-15 01:02:54,222][INFO ] - Cannot clicked on C_driver
+[2018-06-15 01:03:05,895][INFO ] - Language set to 'English'
+[2018-06-15 01:03:05,997][INFO ] - Pressed winleft
+[2018-06-15 01:03:06,098][INFO ] - typed 'pc' in speed 0
+[2018-06-15 01:03:06,199][INFO ] - Pressed enter
+[2018-06-15 01:03:07,199][INFO ] - Sleeing 1 sec
+[2018-06-15 01:03:09,897][INFO ] - Found C:/AutoDesktop/Test_imgs/C_driver.png coordinates: 712.0, 230.5
+[2018-06-15 01:03:10,670][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=1
+[2018-06-15 01:03:12,559][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=2
+[2018-06-15 01:03:14,389][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/full_size.png. attempts=3
+[2018-06-15 01:03:16,290][INFO ] - Cannot found C:/AutoDesktop/Test_imgs/new_folder.png. attempts=1
+[2018-06-15 01:03:20,162][INFO ] - Language set to 'English'
+[2018-06-15 01:03:20,162][INFO ] - Scenario Start !
+[2018-06-15 01:03:20,163][INFO ] - open the network connection
+[2018-06-15 01:03:20,163][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 01:03:22,269][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 01:03:22,371][INFO ] - Pressed enter
+[2018-06-15 01:03:22,371][INFO ] - verify if the window opened
+[2018-06-15 01:03:24,372][INFO ] - Sleeing 2 sec
+[2018-06-15 01:03:25,192][INFO ] - Found C:/AutoDesktop/Test_imgs/test.png coordinates: 688.5, 274.0
+[2018-06-15 01:03:25,192][INFO ] - Opened the network connection window
+[2018-06-15 01:03:27,763][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet_3.png coordinates: 682.5, 275.0
+[2018-06-15 01:03:27,763][INFO ] - Clicked enthernet_3 object 
+[2018-06-15 01:03:43,128][INFO ] - Language set to 'English'
+[2018-06-15 01:03:43,129][INFO ] - Scenario Start !
+[2018-06-15 01:03:43,129][INFO ] - open the network connection
+[2018-06-15 01:03:43,129][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 01:03:45,234][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 01:03:45,334][INFO ] - Pressed enter
+[2018-06-15 01:03:45,334][INFO ] - verify if the window opened
+[2018-06-15 01:03:47,334][INFO ] - Sleeing 2 sec
+[2018-06-15 01:03:48,145][INFO ] - Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+[2018-06-15 01:03:48,145][INFO ] - Opened the network connection window
+[2018-06-15 01:03:50,697][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet_3.png coordinates: 682.5, 275.0
+[2018-06-15 01:03:50,697][INFO ] - Clicked enthernet_3 object 
+[2018-06-15 01:04:10,577][INFO ] - Language set to 'English'
+[2018-06-15 01:04:10,577][INFO ] - Scenario Start !
+[2018-06-15 01:04:10,578][INFO ] - open the network connection
+[2018-06-15 01:04:10,578][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 01:04:12,681][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 01:04:12,781][INFO ] - Pressed enter
+[2018-06-15 01:04:12,781][INFO ] - verify if the window opened
+[2018-06-15 01:04:14,782][INFO ] - Sleeing 2 sec
+[2018-06-15 01:04:15,579][INFO ] - Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+[2018-06-15 01:04:15,579][INFO ] - Opened the network connection window
+[2018-06-15 01:04:18,114][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet_3.png coordinates: 682.5, 275.0
+[2018-06-15 01:04:18,114][INFO ] - Clicked enthernet_3 object 

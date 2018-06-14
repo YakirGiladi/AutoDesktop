@@ -26,7 +26,7 @@ text_actions_list = None
 listKeyFile = "listkey.txt"
 programName = "subl.exe"
 selfCodingFile = "self_coding"
-selfCodingDir = "Self Coding Scripts"
+# selfCodingDir = "Self Coding Scripts"
 signScriptsFile = "All Scenarios.txt"
 
 p = re.compile(r'\d+(\.\d+)?$')
@@ -1146,13 +1146,15 @@ class Application(Frame):
 
         def self_coding():
 
-            global selfCodingFile, selfCodingDir
+            global selfCodingFile
 
-            if not os.path.exists(selfCodingDir):
-                os.makedirs(selfCodingDir)
+            # global selfCodingFile, selfCodingDir
+
+            # if not os.path.exists(selfCodingDir):
+            #     os.makedirs(selfCodingDir)
 
             src_name = selfCodingFile         
-            selfCodingFile = generator_newFileName("{}/{}".format(selfCodingDir,selfCodingFile))
+            selfCodingFile = generator_newFileName("{}".format(selfCodingFile))
             print(selfCodingFile)
             instructions = "\t# Start to write your code here..\n" + \
                            "\t# Scenario script location: \'{}\'\n".format(selfCodingFile) + \

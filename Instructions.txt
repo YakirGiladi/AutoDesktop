@@ -2,24 +2,49 @@ New Scenario:
 Create new scenario by clicking on the button “New Scenario”.
 
 Open Scenario:
-Open existing scenarios that located in your database
-by clicking on the button “Open Scenario”.
+Open existing scenarios that located in your database by clicking on the button “Open Scenario”.
 In the opened window, choose the scenarios you want.
 
 Save a Scenario:
-Save a scenario by clicking on the image disk button.
+Save a scenario by clicking on the image disk button. 
 The scenario will save as a text file.
 
 Show All Scenarios:
-Show the all the scenarios that locate in your database
-by clicking on the button “Show All Scenarios”.
+Show the all the scenarios that locate in your database by clicking on the button “Show All Scenarios”.
 Will open a window that contains all your scenarios.
 
 Self Coding:
 Create scenarios using Python code by clicking on the button “Self Coding”. 
 Will open your default Text Editor contains import of whole AutoDesktop Python library.
+To run the script open the Command-line and run "python <script-name-fullpath>"
 
 OS Actions:
 Setting delays and writings logs by clicking on the buttons “Sleep” and “Log”.
 The sleep time will declare in the time field by the user.
 The log text will declare in the text field by the user.
+
+Search Object:
+Searching and finding object by importing object picture by clicking on the button “…”.
+To be possible to choose the kind of the action and the kind of the clicking.
+To be possible to set the number of the attempts and the number of the sleep seconds between any search.
+
+Condition:
+Creation of “Conditions” (If, If not, Else) on the objects that actioned 
+by “Search Object”, by clicking on the buttons "If", "If not" or “Else”.
+The number of the indentions increase by 1.
+When you finished the condition handling, click on the button “Finish” 
+and the number of the indentions decrease by 1.
+
+UI Actions:
+Full control on the mouse become possible by clicking on the buttons “Move Mouse” and “Click”.
+With those buttons become the option to move the mouse cursor to any coordinates on the screen. 
+The kind of the clicking will be set by RadioButtons “Left/Right”.
+The speed mouse will be set by field “Speed”.
+The number of mouse clicking will be set by field “Times”.
+
+Keyboard Press:
+Full control on the mouse become possible by clicking on the buttons "Press Keyboard” and ”Type Text".
+With those buttons become the option to click on any key on the keyboard automatic inside the scenario:
+Pressing one time or multiplies times, holding key, pressing on some buttons at the same time etc. 
+To become possible of typing text by the field “Text” and the type speed will set by the field “Speed”
+

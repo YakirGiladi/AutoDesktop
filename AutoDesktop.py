@@ -96,6 +96,9 @@ class OS():
             elif log_type == "Error":
                 logger.error(text)
 
+    def END():
+        os._exit(0)
+
 
 class UIElem():
     """
@@ -258,26 +261,11 @@ class UIElem():
 
         while attempts < self.max_attempts:
             try:
-                screenshot = ImageGrab.grab()
-                screenshot.save(scns)
 
-                img_rgb = cv2.imread(scns)
-                img_gray = cv2.cvtColor(img_rgb, cv2.COLOR_BGR2GRAY)
-                os.remove(scns) # remove the screenshot
+                self.x, self.y = UIElem.get_coordinates(self.screen)
 
-                template = cv2.imread(self.screen,0)
-                w, h = template.shape[::-1]
+                if (self.x and self.y) != None:
 
-                res = cv2.matchTemplate(img_gray,template,cv2.TM_CCOEFF_NORMED)
-                
-                threshold = 0.8
-                loc = np.where( res >= threshold)
-               
-                if loc[1]:
-                    self.x = loc[1][0] + w/2
-                    self.y = loc[0][0] + h/2
-
-                    counter = 0
                     found = True
 
                     if coordinates:
