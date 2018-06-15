@@ -875,3 +875,307 @@
 [2018-06-15 01:04:15,579][INFO ] - Opened the network connection window
 [2018-06-15 01:04:18,114][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet_3.png coordinates: 682.5, 275.0
 [2018-06-15 01:04:18,114][INFO ] - Clicked enthernet_3 object 
+[2018-06-15 17:23:12,185][INFO ] - Language set to 'English'
+[2018-06-15 17:23:12,186][INFO ] - Scenario Start !
+[2018-06-15 17:23:12,187][INFO ] - open the network connection
+[2018-06-15 17:23:12,187][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 17:23:14,292][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 17:23:14,394][INFO ] - Pressed enter
+[2018-06-15 17:23:14,394][INFO ] - verify if the window opened
+[2018-06-15 17:23:16,395][INFO ] - Sleeing 2 sec
+[2018-06-15 17:23:17,438][INFO ] - Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+[2018-06-15 17:23:17,439][INFO ] - Opened the network connection window
+[2018-06-15 17:23:20,035][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet_3.png coordinates: 682.5, 275.0
+[2018-06-15 17:23:20,035][INFO ] - Clicked enthernet object 
+[2018-06-15 17:23:20,036][INFO ] - Try to right click on enthernet object 
+[2018-06-15 17:23:22,650][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet_3.png coordinates: 682.5, 275.0
+[2018-06-15 17:23:22,650][INFO ] - Do right click on enthernet
+[2018-06-15 17:23:22,752][INFO ] - Pressed down
+[2018-06-15 17:23:22,852][INFO ] - Pressed enter
+[2018-06-15 17:23:22,852][INFO ] - Do sleep 3 sec
+[2018-06-15 17:23:25,852][INFO ] - Sleeing 3 sec
+[2018-06-15 17:23:25,852][INFO ] - Try to right click on disabled_ethernet object 
+[2018-06-15 17:23:28,485][INFO ] - Found C:/AutoDesktop/Test_imgs/disabled_ethernet.png coordinates: 648.0, 296.0
+[2018-06-15 17:25:19,100][INFO ] - Language set to 'English'
+[2018-06-15 17:25:19,100][INFO ] - Scenario Start !
+[2018-06-15 17:25:19,101][INFO ] - open the network connection
+[2018-06-15 17:25:19,101][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 17:25:21,208][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 17:25:21,309][INFO ] - Pressed enter
+[2018-06-15 17:25:21,309][INFO ] - verify if the window opened
+[2018-06-15 17:25:23,310][INFO ] - Sleeing 2 sec
+[2018-06-15 17:25:24,164][INFO ] - Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+[2018-06-15 17:25:24,164][INFO ] - Opened the network connection window
+[2018-06-15 17:25:26,784][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:25:26,784][INFO ] - Clicked enthernet object 
+[2018-06-15 17:25:26,785][INFO ] - Try to right click on enthernet object 
+[2018-06-15 17:25:29,466][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:25:29,467][INFO ] - Do right click on enthernet
+[2018-06-15 17:25:29,567][INFO ] - Pressed down
+[2018-06-15 17:25:29,668][INFO ] - Pressed enter
+[2018-06-15 17:25:29,668][INFO ] - Do sleep 3 sec
+[2018-06-15 17:25:32,670][INFO ] - Sleeing 3 sec
+[2018-06-15 17:25:32,670][INFO ] - Try to right click on disabled_ethernet object 
+[2018-06-15 17:25:35,334][INFO ] - Found C:/AutoDesktop/Test_imgs/disabled_ethernet.png coordinates: 648.0, 296.0
+[2018-06-15 17:25:35,334][INFO ] - Enable the disabled_ethernet
+[2018-06-15 17:25:35,436][INFO ] - Pressed down
+[2018-06-15 17:25:35,536][INFO ] - Pressed enter
+[2018-06-15 17:27:25,576][INFO ] - Language set to 'English'
+[2018-06-15 17:27:25,576][INFO ] - Scenario Start !
+[2018-06-15 17:27:25,577][INFO ] - open the network connection
+[2018-06-15 17:27:25,577][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 17:27:27,683][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 17:27:27,783][INFO ] - Pressed enter
+[2018-06-15 17:27:27,783][INFO ] - verify if the window opened
+[2018-06-15 17:27:29,785][INFO ] - Sleeing 2 sec
+[2018-06-15 17:27:30,665][INFO ] - Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+[2018-06-15 17:27:30,666][INFO ] - Opened the network connection window
+[2018-06-15 17:27:33,317][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:27:33,317][INFO ] - Clicked enthernet object 
+[2018-06-15 17:27:33,318][INFO ] - Try to right click on enthernet object 
+[2018-06-15 17:27:35,984][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:27:35,984][INFO ] - Do right click on enthernet
+[2018-06-15 17:27:36,085][INFO ] - Pressed down
+[2018-06-15 17:27:36,187][INFO ] - Pressed enter
+[2018-06-15 17:27:36,187][INFO ] - Disable enthernet
+[2018-06-15 17:27:36,188][INFO ] - Moving mouse to coordinate: 100,100
+[2018-06-15 17:27:36,842][INFO ] - Mouse moved to 100,100 in speed 0.5
+[2018-06-15 17:27:36,842][INFO ] - Do sleep 3 sec
+[2018-06-15 17:27:39,844][INFO ] - Sleeing 3 sec
+[2018-06-15 17:27:39,844][INFO ] - Try to right click on disabled_ethernet object 
+[2018-06-15 17:27:42,517][INFO ] - Found C:/AutoDesktop/Test_imgs/disabled_ethernet.png coordinates: 648.0, 296.0
+[2018-06-15 17:27:42,517][INFO ] - Enable the disabled_ethernet
+[2018-06-15 17:27:42,619][INFO ] - Pressed down
+[2018-06-15 17:27:42,720][INFO ] - Pressed enter
+[2018-06-15 17:33:46,100][INFO ] - Language set to 'English'
+[2018-06-15 17:33:46,100][INFO ] - Scenario Start !
+[2018-06-15 17:33:46,101][INFO ] - open the network connection
+[2018-06-15 17:33:46,101][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 17:33:48,206][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 17:33:48,307][INFO ] - Pressed enter
+[2018-06-15 17:33:48,307][INFO ] - verify if the window opened
+[2018-06-15 17:33:50,308][INFO ] - Sleeing 2 sec
+[2018-06-15 17:33:51,283][INFO ] - Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+[2018-06-15 17:33:51,283][INFO ] - Opened the network connection window
+[2018-06-15 17:33:53,884][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:33:53,884][INFO ] - Clicked enthernet object 
+[2018-06-15 17:33:53,885][INFO ] - Try to right click on enthernet object 
+[2018-06-15 17:33:56,551][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:33:56,551][INFO ] - Do right click on enthernet
+[2018-06-15 17:33:56,653][INFO ] - Pressed down
+[2018-06-15 17:33:56,754][INFO ] - Pressed enter
+[2018-06-15 17:33:56,754][INFO ] - Disable enthernet
+[2018-06-15 17:33:56,755][INFO ] - Moving mouse to coordinate: 100,100
+[2018-06-15 17:33:57,409][INFO ] - Mouse moved to 100,100 in speed 0.5
+[2018-06-15 17:33:57,409][INFO ] - Do sleep 3 sec
+[2018-06-15 17:34:00,410][INFO ] - Sleeing 3 sec
+[2018-06-15 17:34:00,410][INFO ] - Try to right click on disabled_ethernet object 
+[2018-06-15 17:34:03,068][INFO ] - Found C:/AutoDesktop/Test_imgs/disabled_ethernet.png coordinates: 648.0, 296.0
+[2018-06-15 17:34:03,068][INFO ] - Enable the disabled_ethernet
+[2018-06-15 17:34:03,169][INFO ] - Pressed down
+[2018-06-15 17:34:03,269][INFO ] - Pressed enter
+[2018-06-15 17:34:03,269][INFO ] - Do sleep 3 sec
+[2018-06-15 17:34:06,269][INFO ] - Sleeing 3 sec
+[2018-06-15 17:34:06,270][INFO ] - Verify if the ethernet is up
+[2018-06-15 17:34:08,952][INFO ] - Found C:/AutoDesktop/Test_imgs/ethernet_frame.png coordinates: 734.5, 296.0
+[2018-06-15 17:34:08,952][INFO ] - Ethernet is up
+[2018-06-15 17:34:08,953][INFO ] - The test Passed
+[2018-06-15 17:35:17,646][INFO ] - Language set to 'English'
+[2018-06-15 17:35:17,647][INFO ] - Scenario Start !
+[2018-06-15 17:35:17,647][INFO ] - open the network connection
+[2018-06-15 17:35:17,647][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 17:35:19,754][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 17:35:19,856][INFO ] - Pressed enter
+[2018-06-15 17:35:19,856][INFO ] - verify if the window opened
+[2018-06-15 17:35:21,856][INFO ] - Sleeing 2 sec
+[2018-06-15 17:35:22,693][INFO ] - Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+[2018-06-15 17:35:22,693][INFO ] - Opened the network connection window
+[2018-06-15 17:35:25,317][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:35:25,317][INFO ] - Clicked enthernet object 
+[2018-06-15 17:35:25,318][INFO ] - Try to right click on enthernet object 
+[2018-06-15 17:35:28,019][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:35:28,019][INFO ] - Do right click on enthernet
+[2018-06-15 17:35:28,121][INFO ] - Pressed down
+[2018-06-15 17:35:28,222][INFO ] - Pressed enter
+[2018-06-15 17:35:28,222][INFO ] - Disable enthernet
+[2018-06-15 17:35:28,222][INFO ] - Moving mouse to coordinate: 100,100
+[2018-06-15 17:35:28,878][INFO ] - Mouse moved to 100,100 in speed 0.5
+[2018-06-15 17:35:28,878][INFO ] - Do sleep 3 sec
+[2018-06-15 17:35:31,878][INFO ] - Sleeing 3 sec
+[2018-06-15 17:35:31,878][INFO ] - Try to right click on disabled_ethernet object 
+[2018-06-15 17:35:34,585][INFO ] - Found C:/AutoDesktop/Test_imgs/disabled_ethernet.png coordinates: 648.0, 296.0
+[2018-06-15 17:35:34,585][INFO ] - Enable the disabled_ethernet
+[2018-06-15 17:35:34,686][INFO ] - Pressed down
+[2018-06-15 17:35:34,787][INFO ] - Pressed enter
+[2018-06-15 17:35:34,787][INFO ] - Do sleep 3 sec
+[2018-06-15 17:35:37,788][INFO ] - Sleeing 3 sec
+[2018-06-15 17:35:37,788][INFO ] - Verify if the ethernet is up
+[2018-06-15 17:35:40,467][INFO ] - Found C:/AutoDesktop/Test_imgs/ethernet_frame.png coordinates: 734.5, 296.0
+[2018-06-15 17:35:40,467][INFO ] - Ethernet is up
+[2018-06-15 17:35:40,468][INFO ] - The test Passed
+[2018-06-15 17:36:07,988][INFO ] - Language set to 'English'
+[2018-06-15 17:36:07,988][INFO ] - Scenario Start !
+[2018-06-15 17:36:07,989][INFO ] - open the network connection
+[2018-06-15 17:36:07,989][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 17:36:10,096][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 17:36:10,197][INFO ] - Pressed enter
+[2018-06-15 17:36:10,197][INFO ] - verify if the window opened
+[2018-06-15 17:36:12,200][INFO ] - Sleeing 2 sec
+[2018-06-15 17:36:13,208][INFO ] - Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+[2018-06-15 17:36:13,208][INFO ] - Opened the network connection window
+[2018-06-15 17:36:15,818][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:36:15,818][INFO ] - Clicked enthernet object 
+[2018-06-15 17:36:15,818][INFO ] - Try to right click on enthernet object 
+[2018-06-15 17:36:18,435][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:36:18,435][INFO ] - Do right click on enthernet
+[2018-06-15 17:36:18,536][INFO ] - Pressed down
+[2018-06-15 17:36:18,636][INFO ] - Pressed enter
+[2018-06-15 17:36:18,636][INFO ] - Disable enthernet
+[2018-06-15 17:36:18,637][INFO ] - Moving mouse to coordinate: 100,100
+[2018-06-15 17:36:19,293][INFO ] - Mouse moved to 100,100 in speed 0.5
+[2018-06-15 17:36:19,293][INFO ] - Do sleep 3 sec
+[2018-06-15 17:36:22,294][INFO ] - Sleeing 3 sec
+[2018-06-15 17:36:22,294][INFO ] - Try to right click on disabled_ethernet object 
+[2018-06-15 17:36:24,968][INFO ] - Found C:/AutoDesktop/Test_imgs/disabled_ethernet.png coordinates: 648.0, 296.0
+[2018-06-15 17:36:24,968][INFO ] - Enable the disabled_ethernet
+[2018-06-15 17:36:25,069][INFO ] - Pressed down
+[2018-06-15 17:36:25,171][INFO ] - Pressed enter
+[2018-06-15 17:36:25,171][INFO ] - Do sleep 3 sec
+[2018-06-15 17:36:28,171][INFO ] - Sleeing 3 sec
+[2018-06-15 17:36:28,171][INFO ] - Verify if the ethernet is up
+[2018-06-15 17:36:30,868][INFO ] - Found C:/AutoDesktop/Test_imgs/ethernet_frame.png coordinates: 734.5, 296.0
+[2018-06-15 17:36:30,868][INFO ] - Ethernet is up
+[2018-06-15 17:36:30,869][INFO ] - The test Passed
+[2018-06-15 17:36:42,737][INFO ] - Language set to 'English'
+[2018-06-15 17:36:42,737][INFO ] - Scenario Start !
+[2018-06-15 17:36:42,738][INFO ] - open the network connection
+[2018-06-15 17:36:42,738][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 17:36:44,844][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 17:36:44,945][INFO ] - Pressed enter
+[2018-06-15 17:36:44,945][INFO ] - verify if the window opened
+[2018-06-15 17:36:46,945][INFO ] - Sleeing 2 sec
+[2018-06-15 17:36:47,906][INFO ] - Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+[2018-06-15 17:36:47,907][INFO ] - Opened the network connection window
+[2018-06-15 17:36:50,517][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:36:50,517][INFO ] - Clicked enthernet object 
+[2018-06-15 17:36:50,518][INFO ] - Try to right click on enthernet object 
+[2018-06-15 17:36:53,184][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:36:53,184][INFO ] - Do right click on enthernet
+[2018-06-15 17:36:53,285][INFO ] - Pressed down
+[2018-06-15 17:36:53,387][INFO ] - Pressed enter
+[2018-06-15 17:36:53,387][INFO ] - Disable enthernet
+[2018-06-15 17:36:53,388][INFO ] - Moving mouse to coordinate: 100,100
+[2018-06-15 17:36:54,044][INFO ] - Mouse moved to 100,100 in speed 0.5
+[2018-06-15 17:36:54,044][INFO ] - Do sleep 3 sec
+[2018-06-15 17:36:57,045][INFO ] - Sleeing 3 sec
+[2018-06-15 17:36:57,045][INFO ] - Try to right click on disabled_ethernet object 
+[2018-06-15 17:36:59,750][INFO ] - Found C:/AutoDesktop/Test_imgs/disabled_ethernet.png coordinates: 648.0, 296.0
+[2018-06-15 17:36:59,750][INFO ] - Enable the disabled_ethernet
+[2018-06-15 17:36:59,852][INFO ] - Pressed down
+[2018-06-15 17:36:59,953][INFO ] - Pressed enter
+[2018-06-15 17:36:59,953][INFO ] - Do sleep 3 sec
+[2018-06-15 17:37:02,954][INFO ] - Sleeing 3 sec
+[2018-06-15 17:37:02,954][INFO ] - Verify if the ethernet is up
+[2018-06-15 17:37:05,650][INFO ] - Found C:/AutoDesktop/Test_imgs/ethernet_frame.png coordinates: 734.5, 296.0
+[2018-06-15 17:37:05,650][INFO ] - Ethernet is up
+[2018-06-15 17:37:05,651][INFO ] - The test Passed
+[2018-06-15 17:38:25,532][INFO ] - Language set to 'English'
+[2018-06-15 17:39:19,329][INFO ] - Language set to 'English'
+[2018-06-15 17:39:19,330][INFO ] - Scenario Start !
+[2018-06-15 17:39:19,330][INFO ] - open the network connection
+[2018-06-15 17:39:19,330][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 17:39:21,436][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 17:39:21,537][INFO ] - Pressed enter
+[2018-06-15 17:39:21,537][INFO ] - verify if the window opened
+[2018-06-15 17:39:23,538][INFO ] - Sleeing 2 sec
+[2018-06-15 17:39:24,369][INFO ] - Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+[2018-06-15 17:39:24,369][INFO ] - Opened the network connection window
+[2018-06-15 17:39:26,952][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:39:26,952][INFO ] - Clicked enthernet object 
+[2018-06-15 17:39:26,953][INFO ] - Try to right click on enthernet object 
+[2018-06-15 17:39:29,534][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:39:29,534][INFO ] - Do right click on enthernet
+[2018-06-15 17:39:29,635][INFO ] - Pressed down
+[2018-06-15 17:39:29,737][INFO ] - Pressed enter
+[2018-06-15 17:39:29,737][INFO ] - Disable enthernet
+[2018-06-15 17:39:29,738][INFO ] - Moving mouse to coordinate: 100,100
+[2018-06-15 17:39:30,406][INFO ] - Mouse moved to 100,100 in speed 0.5
+[2018-06-15 17:39:30,406][INFO ] - Do sleep 3 sec
+[2018-06-15 17:39:33,408][INFO ] - Sleeing 3 sec
+[2018-06-15 17:39:33,409][INFO ] - Try to right click on disabled_ethernet object 
+[2018-06-15 17:39:36,069][INFO ] - Found C:/AutoDesktop/Test_imgs/disabled_ethernet.png coordinates: 648.0, 296.0
+[2018-06-15 17:39:36,069][INFO ] - Enable the disabled_ethernet
+[2018-06-15 17:39:36,169][INFO ] - Pressed down
+[2018-06-15 17:39:36,269][INFO ] - Pressed enter
+[2018-06-15 17:39:36,269][INFO ] - Do sleep 3 sec
+[2018-06-15 17:39:39,270][INFO ] - Sleeing 3 sec
+[2018-06-15 17:39:39,270][INFO ] - Verify if the ethernet is up
+[2018-06-15 17:39:41,901][INFO ] - Found C:/AutoDesktop/Test_imgs/ethernet_frame.png coordinates: 734.5, 296.0
+[2018-06-15 17:39:41,901][INFO ] - Ethernet is up
+[2018-06-15 17:39:41,901][INFO ] - The test Passed
+[2018-06-15 17:44:19,240][INFO ] - Language set to 'English'
+[2018-06-15 17:44:19,241][INFO ] - Scenario Start !
+[2018-06-15 17:44:19,243][INFO ] - open the network connection
+[2018-06-15 17:44:19,243][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 17:44:21,348][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 17:44:21,450][INFO ] - Pressed enter
+[2018-06-15 17:44:21,450][INFO ] - verify if the window opened
+[2018-06-15 17:44:23,450][INFO ] - Sleeing 2 sec
+[2018-06-15 17:44:24,297][INFO ] - Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+[2018-06-15 17:44:24,297][INFO ] - Opened the network connection window
+[2018-06-15 17:44:26,902][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:44:26,902][INFO ] - Clicked enthernet object 
+[2018-06-15 17:44:26,903][INFO ] - Try to right click on enthernet object 
+[2018-06-15 17:44:29,468][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:44:29,468][INFO ] - Do right click on enthernet
+[2018-06-15 17:44:29,570][INFO ] - Pressed down
+[2018-06-15 17:44:29,670][INFO ] - Pressed enter
+[2018-06-15 17:44:29,670][INFO ] - Disable enthernet
+[2018-06-15 17:44:29,670][INFO ] - Moving mouse to coordinate: 100,100
+[2018-06-15 17:44:30,325][INFO ] - Mouse moved to 100,100 in speed 0.5
+[2018-06-15 17:44:30,325][INFO ] - Do sleep 3 sec
+[2018-06-15 17:44:33,326][INFO ] - Sleeing 3 sec
+[2018-06-15 17:44:33,326][INFO ] - Try to right click on disabled_ethernet object 
+[2018-06-15 17:44:35,984][INFO ] - Found C:/AutoDesktop/Test_imgs/disabled_ethernet.png coordinates: 648.0, 296.0
+[2018-06-15 17:44:35,984][INFO ] - Enable the disabled_ethernet
+[2018-06-15 17:44:36,085][INFO ] - Pressed down
+[2018-06-15 17:44:36,187][INFO ] - Pressed enter
+[2018-06-15 17:44:36,187][INFO ] - Do sleep 3 sec
+[2018-06-15 17:44:39,187][INFO ] - Sleeing 3 sec
+[2018-06-15 17:44:39,187][INFO ] - Verify if the ethernet is up
+[2018-06-15 17:44:40,027][INFO ] - Found C:/AutoDesktop/Test_imgs/ethernet_frame.png coordinates: 734.5, 296.0
+[2018-06-15 17:44:40,027][INFO ] - Ethernet is up
+[2018-06-15 17:44:40,027][INFO ] - The test Passed
+[2018-06-15 17:47:49,655][INFO ] - Language set to 'English'
+[2018-06-15 17:47:49,656][INFO ] - Scenario Start !
+[2018-06-15 17:47:49,656][INFO ] - open the network connection
+[2018-06-15 17:47:49,656][INFO ] - Multi pressed on ['winleft', 'r']
+[2018-06-15 17:47:51,762][INFO ] - typed 'ncpa.cpl' in speed 0.2
+[2018-06-15 17:47:51,862][INFO ] - Pressed enter
+[2018-06-15 17:47:51,862][INFO ] - verify if the window opened
+[2018-06-15 17:47:53,863][INFO ] - Sleeing 2 sec
+[2018-06-15 17:47:54,709][INFO ] - Found C:/AutoDesktop/Test_imgs/network_connection.png coordinates: 335.0, 150.5
+[2018-06-15 17:47:54,709][INFO ] - Opened the network connection window
+[2018-06-15 17:47:57,284][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:47:57,284][INFO ] - Clicked enthernet object 
+[2018-06-15 17:47:57,284][INFO ] - Try to right click on enthernet object 
+[2018-06-15 17:47:59,834][INFO ] - Found C:/AutoDesktop/Test_imgs/enthernet.png coordinates: 645.0, 296.0
+[2018-06-15 17:47:59,834][INFO ] - Do right click on enthernet
+[2018-06-15 17:47:59,935][INFO ] - Pressed down
+[2018-06-15 17:48:00,037][INFO ] - Pressed enter
+[2018-06-15 17:48:00,037][INFO ] - Disable enthernet
+[2018-06-15 17:48:00,037][INFO ] - Moving mouse to coordinate: 100,100
+[2018-06-15 17:48:00,692][INFO ] - Mouse moved to 100,100 in speed 0.5
+[2018-06-15 17:48:00,692][INFO ] - Do sleep 3 sec
+[2018-06-15 17:48:03,694][INFO ] - Sleeing 3 sec
+[2018-06-15 17:48:03,694][INFO ] - Try to right click on disabled_ethernet object 
+[2018-06-15 17:48:06,350][INFO ] - Found C:/AutoDesktop/Test_imgs/disabled_ethernet.png coordinates: 648.0, 296.0
+[2018-06-15 17:48:06,350][INFO ] - Enable the disabled_ethernet
+[2018-06-15 17:48:06,452][INFO ] - Pressed down
+[2018-06-15 17:48:06,552][INFO ] - Pressed enter
+[2018-06-15 17:48:06,552][INFO ] - Do sleep 3 sec
+[2018-06-15 17:48:09,553][INFO ] - Sleeing 3 sec
+[2018-06-15 17:48:09,553][INFO ] - Verify if the ethernet is up
+[2018-06-15 17:48:10,396][INFO ] - Found C:/AutoDesktop/Test_imgs/ethernet_frame.png coordinates: 734.5, 296.0
+[2018-06-15 17:48:10,396][INFO ] - Ethernet is up
+[2018-06-15 17:48:10,396][INFO ] - The test Passed

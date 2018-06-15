@@ -35,20 +35,68 @@ if __name__ == '__main__':
 			print("2")
 			OS.log("The network connection window wasn't open", "Error")
 			OS.END()
-	print("3")
+
 	# create element of the enthernet_3 object
 	OS.log("Opened the network connection window")
-	enthernet_3 = UIElem("C:/AutoDesktop/Test_imgs/enthernet_3.png",2 ,1)
-	enthernet_3_clicked = enthernet_3.click()
+	enthernet = UIElem("C:/AutoDesktop/Test_imgs/enthernet.png",2 ,1)
+	enthernet_clicked = enthernet.click()
 
-	if not enthernet_3_clicked:
-		OS.log("Try to click the enthernet_3 that was choosen (blue)")
-		enthernet_3_blue = UIElem("C:/AutoDesktop/Test_imgs/enthernet_3_blue.png",2 ,1)
-		enthernet_3_blue_clicked = enthernet_3_blue.click()
+	if not enthernet_clicked:
+		OS.log("Try to click the enthernet that was choosen (blue)")
+		enthernet = UIElem("C:/AutoDesktop/Test_imgs/enthernet_3_blue.png",2 ,1)
+		enthernet_clicked = enthernet.click()
 		
-		if not enthernet_3_blue_clicked:
-			OS.log("The enthernet_3 object wasn't click", "Error")
+		if not enthernet_clicked:
+			OS.log("The enthernet object wasn't click", "Error")
 			OS.END()
-	
 
-	OS.log("Clicked enthernet_3 object ")
+	OS.log("Clicked enthernet object ")
+	OS.log("Try to right click on enthernet object ")
+	enthernet_clicked = enthernet.click(click_type="Right")
+	
+	if not enthernet_clicked:
+		OS.log("Cannot do right click on enthernet", "Error")
+		OS.END()
+
+	OS.log("Do right click on enthernet")
+	Keyboard.keyboard_press("down")
+	Keyboard.keyboard_press("enter")
+	
+	OS.log("Disable enthernet")
+	OS.log("Moving mouse to coordinate: 100,100")
+	Mouse.move_mouse(100,100,0.5)
+
+	OS.log("Do sleep 3 sec")
+	OS.do_sleep(3)
+	
+	OS.log("Try to right click on disabled_ethernet object ")
+	disabled_ethernet = UIElem("C:/AutoDesktop/Test_imgs/disabled_ethernet.png",3 ,1)
+	disabled_ethernet_clicked = disabled_ethernet.click(click_type="Right")
+	if not disabled_ethernet_clicked:
+		OS.log("Cannot do right click on disabled_ethernet", "Error")
+		OS.END()
+
+	OS.log("Enable the disabled_ethernet")
+	Keyboard.keyboard_press("down")
+	Keyboard.keyboard_press("enter")
+
+	OS.log("Do sleep 3 sec")
+	OS.do_sleep(3)
+
+	OS.log("Verify if the ethernet is up")
+	ethernet_frame = UIElem("C:/AutoDesktop/Test_imgs/ethernet_frame.png",3 ,1)
+	ethernet_frame_exsist = ethernet_frame.find()
+
+	if not ethernet_frame_exsist:
+		OS.log("The test failure", "Error")
+		OS.END()
+	
+	OS.log("Ethernet is up")
+	OS.log("The test Passed")
+
+
+
+
+
+
+	

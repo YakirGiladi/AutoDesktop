@@ -49,12 +49,13 @@ APP_PATH = 'c:/windows/system32/'
 #### OS ####
 class OS():
 
-    def log_filename(logname):
+    def log_filename(logname, mode='w'):
         global logging
 
         logname = logname.split(".")[0] + ".log"
 
-        logging.basicConfig(filename=logname)
+        logging.basicConfig(filename=logname, filemode=mode)
+        logger = logging.getLogger(logname)
         # create formatters
         file_formatter = logging.Formatter('[%(asctime)-15s][%(levelname)-5s] - %(message)s')
         # console_formatter = logging.Formatter('%(message)s')

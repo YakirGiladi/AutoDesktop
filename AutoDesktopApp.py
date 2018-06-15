@@ -1156,9 +1156,11 @@ class Application(Frame):
             src_name = selfCodingFile         
             selfCodingFile = generator_newFileName("{}".format(selfCodingFile))
             print(selfCodingFile)
-            instructions = "\t# Start to write your code here..\n" + \
+            instructions = "\tOS.log_filename(\'{}\') # Log filename of the Scenario.. \n".format(selfCodingFile) + \
+                           "\t# Start to write your code here..\n" + \
                            "\t# Scenario script location: \'{}\'\n".format(selfCodingFile) + \
                            "\t# Change it if you want to.. \n"
+
 
             with open(selfCodingFile, "a") as self_coding_file:
                 
